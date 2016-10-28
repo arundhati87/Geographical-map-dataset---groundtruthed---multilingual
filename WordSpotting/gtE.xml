@@ -1,0 +1,3138 @@
+<?xml version="1.0"?>
+<files>
+	<file name="map2_text.tif">
+		<object id="1" VALUE="Sane">
+			<attribute name="BoundingCharPts" compValue="1" char="S"/>
+			<bbox height="40" width="36" x="1054" y="347"/>
+			<attribute name="BoundingCharPts" compValue="2" char="a"/>
+			<bbox height="30" width="22" x="1094" y="357"/>
+			<attribute name="BoundingCharPts" compValue="3" char="n"/>
+			<bbox height="30" width="26" x="1118" y="353"/>
+			<attribute name="BoundingCharPts" compValue="4" char="e"/>
+			<bbox height="22" width="26" x="1146" y="361"/>
+		</object>
+	</file>
+	<file name="001.tif">
+		<object id="1" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="37" width="23" x="1088" y="1139"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="34" width="22" x="1115" y="1138"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="34" width="17" x="1142" y="1136"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="32" width="25" x="1163" y="1138"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="34" width="20" x="1188" y="1135"/>
+		</object>
+	</file>
+	<file name="002.tif">
+		<object id="1" VALUE="AFGHANISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="47" width="32" x="77" y="378"/>
+			<attribute name="BoundingCharPts" compValue="2" char="F"/>
+			<bbox height="40" width="32" x="86" y="351"/>
+			<attribute name="BoundingCharPts" compValue="3" char="G"/>
+			<bbox height="35" width="31" x="107" y="330"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="49" width="38" x="121" y="300"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="41" width="31" x="148" y="281"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="52" width="41" x="157" y="245"/>
+			<attribute name="BoundingCharPts" compValue="7" char="I"/>
+			<bbox height="35" width="26" x="181" y="232"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="46" width="31" x="193" y="203"/>
+			<attribute name="BoundingCharPts" compValue="9" char="T"/>
+			<bbox height="43" width="32" x="211" y="176"/>
+			<attribute name="BoundingCharPts" compValue="10" char="A"/>
+			<bbox height="47" width="37" x="235" y="157"/>
+			<attribute name="BoundingCharPts" compValue="11" char="N"/>
+			<bbox height="53" width="43" x="251" y="112"/>
+		</object>
+		<object id="2" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="31" width="22" x="1352" y="936"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="34" width="19" x="1378" y="933"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="35" width="28" x="1403" y="933"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="31" width="23" x="1433" y="933"/>
+			<attribute name="BoundingBox" compValue="5" char="LA"/>
+			<bbox height="35" width="37" x="1457" y="933"/>
+			<attribute name="BoundingBox" compValue="6" char="DE"/>
+			<bbox height="29" width="38" x="1498" y="934"/>
+			<attribute name="BoundingCharPts" compValue="7" char="S"/>
+			<bbox height="29" width="19" x="1538" y="933"/>
+			<attribute name="BoundingCharPts" compValue="8" char="H"/>
+			<bbox height="35" width="32" x="1555" y="931"/>
+		</object>
+		<object id="3" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="BA"/>
+			<bbox height="43" width="79" x="1168" y="1356"/>
+			<attribute name="BoundingCharPts" compValue="2" char="Y"/>
+			<bbox height="43" width="31" x="1249" y="1356"/>
+		</object>
+		<object id="4" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="29" width="41" x="980" y="2227"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="41" width="23" x="1034" y="2227"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="35" width="35" x="1070" y="2227"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="41" width="35" x="1106" y="2227"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="29" width="35" x="1154" y="2233"/>
+		</object>
+		<object id="5" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="28" width="16" x="134" y="2008"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="25" width="20" x="155" y="2008"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="25" width="19" x="178" y="2009"/>
+			<attribute name="BoundingCharPts" compValue="4" char="S"/>
+			<bbox height="28" width="20" x="199" y="2005"/>
+			<attribute name="BoundingCharPts" compValue="5" char="H"/>
+			<bbox height="23" width="17" x="221" y="2009"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="23" width="20" x="242" y="2009"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="25" width="22" x="266" y="2008"/>
+			<attribute name="BoundingCharPts" compValue="8" char="W"/>
+			<bbox height="26" width="25" x="293" y="2006"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="29" width="19" x="319" y="2008"/>
+			<attribute name="BoundingCharPts" compValue="10" char="E"/>
+			<bbox height="29" width="14" x="340" y="2006"/>
+			<attribute name="BoundingCharPts" compValue="11" char="P"/>
+			<bbox height="28" width="19" x="356" y="2005"/>
+		</object>
+	</file>
+	<file name="003.tif">
+		<object id="1" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="39" width="36" x="818" y="934"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="42" width="37" x="858" y="937"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="43" width="36" x="900" y="935"/>
+		</object>
+	</file>
+	<file name="004.tif">
+		<object id="1" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="34" width="30" x="998" y="716"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="37" width="31" x="1037" y="715"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="37" width="28" x="1074" y="714"/>
+		</object>
+		<object id="2" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="43" width="36" x="979" y="1313"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="39" width="36" x="1034" y="1316"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="37" width="31" x="1088" y="1314"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="42" width="43" x="1132" y="1311"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="36" width="40" x="1189" y="1313"/>
+		</object>
+	</file>
+	<file name="005.tif">
+		<object id="1" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="48" width="42" x="1216" y="2298"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="42" width="36" x="1363" y="2304"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="45" width="39" x="1517" y="2304"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="45" width="45" x="1667" y="2301"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="39" width="54" x="1796" y="2316"/>
+		</object>
+		<object id="2" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="34" width="36" x="935" y="1634"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="36" width="39" x="992" y="1635"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="36" width="31" x="1051" y="1635"/>
+		</object>
+	</file>
+	<file name="006.tif">
+		<object id="1" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="OC"/>
+			<bbox height="33" width="51" x="1070" y="2079"/>
+			<attribute name="BoundingBox" compValue="2" char="EA"/>
+			<bbox height="34" width="44" x="1126" y="2081"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="32" width="24" x="1175" y="2082"/>
+		</object>
+		<object id="2" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="LAK"/>
+			<bbox height="30" width="70" x="96" y="1887"/>
+			<attribute name="BoundingCharPts" compValue="2" char="S"/>
+			<bbox height="29" width="21" x="168" y="1888"/>
+			<attribute name="BoundingCharPts" compValue="3" char="H"/>
+			<bbox height="29" width="23" x="192" y="1888"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="27" width="25" x="218" y="1891"/>
+			<attribute name="BoundingCharPts" compValue="5" char="D"/>
+			<bbox height="25" width="21" x="247" y="1892"/>
+			<attribute name="BoundingCharPts" compValue="6" char="W"/>
+			<bbox height="26" width="35" x="270" y="1891"/>
+			<attribute name="BoundingCharPts" compValue="7" char="E"/>
+			<bbox height="27" width="16" x="309" y="1891"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="26" width="18" x="330" y="1891"/>
+			<attribute name="BoundingCharPts" compValue="9" char="P"/>
+			<bbox height="23" width="20" x="354" y="1893"/>
+		</object>
+		<object id="3" VALUE="CHENNAI">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="28" width="23" x="825" y="1738"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="25" width="20" x="852" y="1739"/>
+			<attribute name="BoundingCharPts" compValue="3" char="H"/>
+			<bbox height="27" width="18" x="875" y="1739"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="30" width="22" x="897" y="1738"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="30" width="19" x="922" y="1739"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="23" width="22" x="943" y="1743"/>
+			<attribute name="BoundingCharPts" compValue="7" char="I"/>
+			<bbox height="26" width="7" x="966" y="1741"/>
+		</object>
+		<object id="4" VALUE="MUMBAI">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="30" width="27" x="190" y="1289"/>
+			<attribute name="BoundingCharPts" compValue="2" char="U"/>
+			<bbox height="36" width="13" x="222" y="1285"/>
+			<attribute name="BoundingCharPts" compValue="3" char="M"/>
+			<bbox height="30" width="29" x="247" y="1291"/>
+			<attribute name="BoundingCharPts" compValue="4" char="B"/>
+			<bbox height="29" width="19" x="280" y="1292"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="30" width="21" x="304" y="1293"/>
+			<attribute name="BoundingCharPts" compValue="6" char="I"/>
+			<bbox height="31" width="8" x="327" y="1292"/>
+		</object>
+		<object id="5" VALUE="KOLKATA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="30" width="20" x="1376" y="1077"/>
+			<attribute name="BoundingCharPts" compValue="2" char="O"/>
+			<bbox height="27" width="23" x="1399" y="1079"/>
+			<attribute name="BoundingCharPts" compValue="3" char="L"/>
+			<bbox height="28" width="8" x="1425" y="1079"/>
+			<attribute name="BoundingCharPts" compValue="4" char="K"/>
+			<bbox height="34" width="23" x="1447" y="1079"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="29" width="23" x="1472" y="1084"/>
+			<attribute name="BoundingCharPts" compValue="6" char="T"/>
+			<bbox height="28" width="21" x="1496" y="1083"/>
+			<attribute name="BoundingCharPts" compValue="7" char="A"/>
+			<bbox height="27" width="19" x="1521" y="1087"/>
+		</object>
+		<object id="6" VALUE="BANGALORE">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="BAN"/>
+			<bbox height="30" width="55" x="542" y="1703"/>
+			<attribute name="BoundingCharPts" compValue="2" char="G"/>
+			<bbox height="28" width="18" x="603" y="1707"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="25" width="20" x="623" y="1709"/>
+			<attribute name="BoundingCharPts" compValue="4" char="L"/>
+			<bbox height="21" width="13" x="646" y="1716"/>
+			<attribute name="BoundingCharPts" compValue="5" char="O"/>
+			<bbox height="29" width="21" x="660" y="1709"/>
+			<attribute name="BoundingBox" compValue="6" char="RE"/>
+			<bbox height="28" width="34" x="685" y="1711"/>
+		</object>
+		<object id="7" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="31" width="24" x="1197" y="1409"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="28" width="26" x="1228" y="1413"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="34" width="25" x="1259" y="1409"/>
+		</object>
+		<object id="8" VALUE="DELHI">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="D"/>
+			<bbox height="30" width="24" x="680" y="673"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="31" width="23" x="706" y="679"/>
+			<attribute name="BoundingCharPts" compValue="3" char="L"/>
+			<bbox height="27" width="15" x="727" y="687"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="25" width="24" x="743" y="691"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="24" width="9" x="767" y="694"/>
+		</object>
+		<object id="9" VALUE="BENGAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="34" width="28" x="1387" y="1413"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="35" width="25" x="1420" y="1415"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="33" width="29" x="1449" y="1417"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="33" width="29" x="1483" y="1420"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="32" width="27" x="1519" y="1423"/>
+			<attribute name="BoundingCharPts" compValue="6" char="L"/>
+			<bbox height="34" width="24" x="1552" y="1421"/>
+		</object>
+		<object id="10" VALUE="ARABIAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="33" width="31" x="71" y="1647"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="31" width="23" x="107" y="1650"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="35" width="30" x="133" y="1649"/>
+			<attribute name="BoundingCharPts" compValue="4" char="B"/>
+			<bbox height="34" width="25" x="167" y="1650"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="34" width="8" x="195" y="1650"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="32" width="32" x="204" y="1653"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="32" width="29" x="239" y="1653"/>
+		</object>
+		<object id="12" VALUE="SRILANKA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="S"/>
+			<bbox height="30" width="25" x="684" y="2079"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="25" width="21" x="712" y="2081"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="26" width="7" x="735" y="2084"/>
+			<attribute name="BoundingBox" compValue="4" char="LA"/>
+			<bbox height="30" width="45" x="744" y="2081"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="27" width="26" x="793" y="2083"/>
+			<attribute name="BoundingCharPts" compValue="6" char="KA"/>
+			<bbox height="29" width="49" x="821" y="2083"/>
+		</object>
+	</file>
+	<file name="007.tif">
+		<object id="1" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="43" width="38" x="1734" y="2428"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="41" width="32" x="1774" y="2429"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="40" width="26" x="1811" y="2431"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="40" width="35" x="1842" y="2431"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="41" width="33" x="1882" y="2431"/>
+		</object>
+		<object id="2" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="LA"/>
+			<bbox height="35" width="52" x="79" y="2162"/>
+			<attribute name="BoundingCharPts" compValue="2" char="K"/>
+			<bbox height="33" width="25" x="135" y="2163"/>
+			<attribute name="BoundingCharPts" compValue="3" char="S"/>
+			<bbox height="35" width="25" x="163" y="2162"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="35" width="25" x="193" y="2160"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="30" width="30" x="223" y="2162"/>
+			<attribute name="BoundingCharPts" compValue="6" char="D"/>
+			<bbox height="34" width="27" x="256" y="2162"/>
+			<attribute name="BoundingCharPts" compValue="7" char="W"/>
+			<bbox height="35" width="41" x="285" y="2161"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="35" width="41" x="285" y="2161"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="36" width="20" x="329" y="2161"/>
+			<attribute name="BoundingCharPts" compValue="10" char="P"/>
+			<bbox height="35" width="20" x="357" y="2161"/>
+		</object>
+		<object id="3" VALUE="BANGALORE">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="39" width="23" x="547" y="1938"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="36" width="28" x="576" y="1944"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="39" width="26" x="609" y="1942"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="39" width="28" x="640" y="1944"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="38" width="30" x="671" y="1947"/>
+			<attribute name="BoundingCharPts" compValue="6" char="L"/>
+			<bbox height="40" width="24" x="706" y="1945"/>
+			<attribute name="BoundingCharPts" compValue="7" char="O"/>
+			<bbox height="40" width="30" x="732" y="1946"/>
+			<attribute name="BoundingCharPts" compValue="8" char="R"/>
+			<bbox height="40" width="24" x="767" y="1948"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="41" width="25" x="795" y="1949"/>
+		</object>
+		<object id="4" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="40" width="31" x="1485" y="1543"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="40" width="36" x="1519" y="1544"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="40" width="33" x="1559" y="1544"/>
+		</object>
+		<object id="5" VALUE="Kolkata">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="34" width="35" x="1533" y="1176"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="25" width="25" x="1570" y="1185"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="35" width="11" x="1598" y="1174"/>
+			<attribute name="BoundingCharPts" compValue="4" char="k"/>
+			<bbox height="35" width="24" x="1613" y="1175"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="24" width="25" x="1640" y="1186"/>
+			<attribute name="BoundingBox" compValue="6" char="ta"/>
+			<bbox height="33" width="46" x="1667" y="1179"/>
+		</object>
+		<object id="6" VALUE="INDIA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="IND"/>
+			<bbox height="58" width="146" x="1487" y="166"/>
+			<attribute name="BoundingBox" compValue="2" char="IA"/>
+			<bbox height="61" width="83" x="1634" y="167"/>
+		</object>
+		<object id="7" VALUE="BENGAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="43" width="32" x="1688" y="1545"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="43" width="23" x="1724" y="1545"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="43" width="35" x="1756" y="1543"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="40" width="35" x="1798" y="1548"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="41" width="38" x="1834" y="1548"/>
+			<attribute name="BoundingCharPts" compValue="6" char="L"/>
+			<bbox height="43" width="23" x="1876" y="1549"/>
+		</object>
+		<object id="8" VALUE="ARABIAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="38" width="35" x="38" y="1777"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="43" width="29" x="76" y="1774"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="41" width="38" x="107" y="1775"/>
+			<attribute name="BoundingCharPts" compValue="4" char="B"/>
+			<bbox height="40" width="26" x="151" y="1775"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="41" width="11" x="181" y="1774"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="38" width="34" x="196" y="1777"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="44" width="35" x="236" y="1777"/>
+		</object>
+		<object id="9" VALUE="SRILANKA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="S"/>
+			<bbox height="35" width="24" x="921" y="2412"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="34" width="24" x="951" y="2413"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="32" width="6" x="979" y="2415"/>
+			<attribute name="BoundingBox" compValue="4" char="LA"/>
+			<bbox height="35" width="52" x="992" y="2414"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="35" width="26" x="1048" y="2415"/>
+			<attribute name="BoundingCharPts" compValue="6" char="K"/>
+			<bbox height="33" width="23" x="1081" y="2415"/>
+			<attribute name="BoundingCharPts" compValue="7" char="A"/>
+			<bbox height="33" width="31" x="1106" y="2415"/>
+		</object>
+		<object id="10" VALUE="DELHI">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="D"/>
+			<bbox height="44" width="36" x="705" y="766"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="42" width="34" x="747" y="767"/>
+			<attribute name="BoundingCharPts" compValue="3" char="L"/>
+			<bbox height="42" width="29" x="785" y="768"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="43" width="36" x="816" y="766"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="44" width="10" x="856" y="766"/>
+		</object>
+	</file>
+	<file name="008.tif">
+		<object id="1" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="36" width="27" x="1281" y="1421"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="39" width="33" x="1312" y="1423"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="37" width="30" x="1348" y="1422"/>
+		</object>
+		<object id="2" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="39" width="32" x="1608" y="2277"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="39" width="27" x="1645" y="2278"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="37" width="23" x="1678" y="2279"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="36" width="30" x="1707" y="2282"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="36" width="31" x="1744" y="2282"/>
+		</object>
+	</file>
+	<file name="009.tif">
+		<object id="1" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="35" width="28" x="1247" y="1370"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="34" width="32" x="1280" y="1373"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="36" width="30" x="1311" y="1370"/>
+		</object>
+		<object id="2" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="34" width="20" x="109" y="2034"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="31" width="26" x="133" y="2037"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="31" width="19" x="163" y="2037"/>
+			<attribute name="BoundingCharPts" compValue="4" char="S"/>
+			<bbox height="32" width="20" x="189" y="2037"/>
+			<attribute name="BoundingCharPts" compValue="5" char="H"/>
+			<bbox height="31" width="23" x="216" y="2037"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="29" width="28" x="243" y="2040"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="29" width="28" x="274" y="2040"/>
+			<attribute name="BoundingCharPts" compValue="8" char="W"/>
+			<bbox height="29" width="40" x="301" y="2040"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="32" width="19" x="343" y="2040"/>
+			<attribute name="BoundingCharPts" compValue="10" char="E"/>
+			<bbox height="34" width="20" x="367" y="2041"/>
+			<attribute name="BoundingCharPts" compValue="11" char="P"/>
+			<bbox height="35" width="20" x="391" y="2040"/>
+		</object>
+		<object id="3" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="41" width="35" x="1031" y="2425"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="39" width="28" x="1069" y="2427"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="41" width="24" x="1102" y="2426"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="40" width="35" x="1130" y="2428"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="39" width="33" x="1168" y="2429"/>
+		</object>
+	</file>
+	<file name="010.tif">
+		<object id="1" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="33" width="24" x="1139" y="1295"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="33" width="30" x="1166" y="1295"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="34" width="24" x="1197" y="1294"/>
+		</object>
+		<object id="2" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="29" width="16" x="166" y="1776"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="28" width="24" x="185" y="1776"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="27" width="18" x="213" y="1776"/>
+			<attribute name="BoundingCharPts" compValue="4" char="S"/>
+			<bbox height="28" width="20" x="236" y="1775"/>
+			<attribute name="BoundingCharPts" compValue="5" char="H"/>
+			<bbox height="24" width="21" x="259" y="1776"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="26" width="25" x="283" y="1775"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="28" width="25" x="307" y="1774"/>
+			<attribute name="BoundingCharPts" compValue="8" char="W"/>
+			<bbox height="27" width="34" x="332" y="1775"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="29" width="18" x="370" y="1773"/>
+			<attribute name="BoundingCharPts" compValue="10" char="E"/>
+			<bbox height="30" width="16" x="390" y="1773"/>
+			<attribute name="BoundingCharPts" compValue="11" char="P"/>
+			<bbox height="28" width="18" x="413" y="1773"/>
+		</object>
+		<object id="3" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="36" width="30" x="1111" y="2089"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="36" width="27" x="1142" y="2089"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="33" width="21" x="1171" y="2090"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="32" width="30" x="1195" y="2090"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="33" width="28" x="1227" y="2089"/>
+		</object>
+		<object id="4" VALUE="AFGHANISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="33" width="32" x="44" y="260"/>
+			<attribute name="BoundingCharPts" compValue="2" char="F"/>
+			<bbox height="31" width="21" x="62" y="245"/>
+			<attribute name="BoundingCharPts" compValue="3" char="G"/>
+			<bbox height="29" width="31" x="86" y="233"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="36" width="33" x="113" y="215"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="29" width="30" x="147" y="204"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="34" width="31" x="169" y="184"/>
+			<attribute name="BoundingCharPts" compValue="7" char="I"/>
+			<bbox height="26" width="19" x="200" y="174"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="30" width="29" x="214" y="161"/>
+			<attribute name="BoundingCharPts" compValue="9" char="T"/>
+			<bbox height="30" width="25" x="236" y="146"/>
+			<attribute name="BoundingCharPts" compValue="10" char="A"/>
+			<bbox height="30" width="26" x="265" y="136"/>
+			<attribute name="BoundingCharPts" compValue="11" char="N"/>
+			<bbox height="34" width="31" x="287" y="117"/>
+		</object>
+		<object id="5" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="BA"/>
+			<bbox height="49" width="41" x="1280" y="790"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="29" width="30" x="1305" y="831"/>
+			<attribute name="BoundingCharPts" compValue="3" char="G"/>
+			<bbox height="30" width="29" x="1321" y="854"/>
+			<attribute name="BoundingCharPts" compValue="4" char="L"/>
+			<bbox height="26" width="23" x="1332" y="875"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="25" width="29" x="1343" y="897"/>
+			<attribute name="BoundingCharPts" compValue="6" char="D"/>
+			<bbox height="28" width="30" x="1355" y="912"/>
+			<attribute name="BoundingCharPts" compValue="7" char="E"/>
+			<bbox height="27" width="29" x="1371" y="933"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="26" width="28" x="1384" y="954"/>
+			<attribute name="BoundingCharPts" compValue="9" char="H"/>
+			<bbox height="30" width="34" x="1396" y="974"/>
+		</object>
+	</file>
+	<file name="011.tif">
+		<object id="1" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="LA"/>
+			<bbox height="33" width="47" x="210" y="1965"/>
+			<attribute name="BoundingCharPts" compValue="2" char="K"/>
+			<bbox height="32" width="26" x="256" y="1967"/>
+			<attribute name="BoundingCharPts" compValue="3" char="S"/>
+			<bbox height="32" width="22" x="283" y="1967"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="28" width="25" x="308" y="1970"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="32" width="27" x="334" y="1967"/>
+			<attribute name="BoundingCharPts" compValue="6" char="D"/>
+			<bbox height="31" width="27" x="362" y="1967"/>
+			<attribute name="BoundingCharPts" compValue="7" char="W"/>
+			<bbox height="28" width="38" x="387" y="1969"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="30" width="21" x="427" y="1969"/>
+			<attribute name="BoundingCharPts" compValue="9" char="K"/>
+			<bbox height="34" width="19" x="450" y="1967"/>
+			<attribute name="BoundingCharPts" compValue="10" char="P"/>
+			<bbox height="31" width="21" x="473" y="1968"/>
+		</object>
+		<object id="2" VALUE="CHINA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="30" width="29" x="964" y="481"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="35" width="32" x="987" y="492"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="27" width="16" x="1010" y="504"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="32" width="32" x="1019" y="512"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="29" width="24" x="1043" y="527"/>
+		</object>
+		<object id="3" VALUE="NEPAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="N"/>
+			<bbox height="35" width="30" x="973" y="618"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="33" width="27" x="998" y="629"/>
+			<attribute name="BoundingCharPts" compValue="3" char="P"/>
+			<bbox height="26" width="29" x="1020" y="639"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="31" width="24" x="1042" y="652"/>
+			<attribute name="BoundingCharPts" compValue="5" char="L"/>
+			<bbox height="32" width="16" x="1068" y="660"/>
+		</object>
+		<object id="4" VALUE="INDIA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="70" width="17" x="1298" y="156"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="69" width="59" x="1324" y="157"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="67" width="59" x="1392" y="158"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="69" width="17" x="1458" y="158"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="68" width="63" x="1481" y="158"/>
+		</object>
+		<object id="5" VALUE="SRILANKA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="S"/>
+			<bbox height="32" width="23" x="848" y="2119"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="30" width="24" x="872" y="2119"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="26" width="8" x="897" y="2123"/>
+			<attribute name="BoundingCharPts" compValue="4" char="L"/>
+			<bbox height="28" width="21" x="908" y="2122"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="29" width="24" x="958" y="2118"/>
+			<attribute name="BoundingCharPts" compValue="7" char="K"/>
+			<bbox height="30" width="21" x="987" y="2116"/>
+			<attribute name="BoundingCharPts" compValue="8" char="A"/>
+			<bbox height="30" width="27" x="1011" y="2116"/>
+		</object>
+		<object id="6" VALUE="BAYOFBENGAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="36" width="26" x="1255" y="1330"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="35" width="36" x="1282" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="37" width="28" x="1315" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="4" char="O"/>
+			<bbox height="38" width="33" x="1357" y="1330"/>
+			<attribute name="BoundingCharPts" compValue="5" char="F"/>
+			<bbox height="36" width="21" x="1394" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="6" char="B"/>
+			<bbox height="36" width="26" x="1429" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="7" char="E"/>
+			<bbox height="36" width="25" x="1456" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="8" char="N"/>
+			<bbox height="36" width="31" x="1485" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="9" char="G"/>
+			<bbox height="38" width="31" x="1520" y="1330"/>
+			<attribute name="BoundingCharPts" compValue="10" char="A"/>
+			<bbox height="35" width="34" x="1553" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="11" char="L"/>
+			<bbox height="40" width="23" x="1590" y="1328"/>
+		</object>
+		<object id="7" VALUE="BHUTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="32" width="25" x="1400" y="698"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="28" width="24" x="1427" y="699"/>
+			<attribute name="BoundingCharPts" compValue="3" char="UT"/>
+			<bbox height="34" width="46" x="1453" y="693"/>
+			<attribute name="BoundingCharPts" compValue="4" char="AN"/>
+			<bbox height="30" width="50" x="1504" y="692"/>
+		</object>
+		<object id="8" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="29" width="32" x="1397" y="823"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="28" width="31" x="1411" y="850"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="33" width="33" x="1425" y="864"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="31" width="30" x="1443" y="890"/>
+			<attribute name="BoundingCharPts" compValue="5" char="LA"/>
+			<bbox height="52" width="40" x="1456" y="912"/>
+			<attribute name="BoundingCharPts" compValue="6" char="D"/>
+			<bbox height="29" width="34" x="1480" y="951"/>
+			<attribute name="BoundingCharPts" compValue="7" char="E"/>
+			<bbox height="31" width="34" x="1496" y="975"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="29" width="32" x="1510" y="998"/>
+			<attribute name="BoundingCharPts" compValue="9" char="H"/>
+			<bbox height="33" width="34" x="1524" y="1017"/>
+		</object>
+		<object id="9" VALUE="MYANMAR">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="50" width="46" x="1759" y="1039"/>
+			<attribute name="BoundingCharPts" compValue="2" char="Y"/>
+			<bbox height="32" width="40" x="1777" y="1004"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="30" width="38" x="1797" y="989"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="42" width="42" x="1808" y="946"/>
+			<attribute name="BoundingCharPts" compValue="5" char="M"/>
+			<bbox height="51" width="47" x="1824" y="906"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="31" width="37" x="1849" y="885"/>
+			<attribute name="BoundingCharPts" compValue="7" char="R"/>
+			<bbox height="34" width="42" x="1861" y="850"/>
+		</object>
+		<object id="10" VALUE="ANDAMAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="24" width="30" x="1692" y="1648"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="25" width="32" x="1688" y="1676"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="25" width="31" x="1686" y="1705"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="27" width="29" x="1683" y="1730"/>
+			<attribute name="BoundingCharPts" compValue="5" char="M"/>
+			<bbox height="32" width="31" x="1678" y="1759"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="27" width="30" x="1674" y="1792"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="27" width="34" x="1669" y="1820"/>
+		</object>
+		<object id="11" VALUE="NICOBAR">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="N"/>
+			<bbox height="30" width="32" x="1669" y="1893"/>
+			<attribute name="BoundingCharPts" compValue="2" char="I"/>
+			<bbox height="12" width="27" x="1677" y="1920"/>
+			<attribute name="BoundingCharPts" compValue="3" char="C"/>
+			<bbox height="26" width="29" x="1684" y="1931"/>
+			<attribute name="BoundingCharPts" compValue="4" char="O"/>
+			<bbox height="28" width="30" x="1691" y="1954"/>
+			<attribute name="BoundingCharPts" compValue="5" char="B"/>
+			<bbox height="25" width="31" x="1702" y="1981"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="25" width="31" x="1711" y="2009"/>
+			<attribute name="BoundingCharPts" compValue="7" char="R"/>
+			<bbox height="29" width="33" x="1721" y="2028"/>
+		</object>
+		<object id="12" VALUE="ISLANDS">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="17" width="23" x="1745" y="2071"/>
+			<attribute name="BoundingCharPts" compValue="2" char="S"/>
+			<bbox height="27" width="31" x="1751" y="2081"/>
+			<attribute name="BoundingCharPts" compValue="3" char="LA"/>
+			<bbox height="51" width="41" x="1766" y="2100"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="33" width="35" x="1791" y="2140"/>
+			<attribute name="BoundingCharPts" compValue="5" char="D"/>
+			<bbox height="30" width="31" x="1809" y="2164"/>
+			<attribute name="BoundingCharPts" compValue="6" char="S"/>
+			<bbox height="27" width="32" x="1824" y="2188"/>
+		</object>
+		<object id="13" VALUE="INDIANOCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="38" width="8" x="1024" y="2228"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="38" width="32" x="1037" y="2228"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="37" width="28" x="1073" y="2228"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="38" width="9" x="1103" y="2228"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="37" width="35" x="1114" y="2228"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="38" width="30" x="1150" y="2227"/>
+			<attribute name="BoundingCharPts" compValue="7" char="OC"/>
+			<bbox height="39" width="66" x="1192" y="2226"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="38" width="25" x="1259" y="2226"/>
+			<attribute name="BoundingCharPts" compValue="9" char="A"/>
+			<bbox height="36" width="31" x="1287" y="2225"/>
+			<attribute name="BoundingCharPts" compValue="10" char="N"/>
+			<bbox height="36" width="31" x="1320" y="2226"/>
+		</object>
+		<object id="15" VALUE="PAKISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="P"/>
+			<bbox height="32" width="24" x="201" y="554"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="30" width="30" x="223" y="537"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="33" width="33" x="234" y="514"/>
+			<attribute name="BoundingCharPts" compValue="4" char="IS"/>
+			<bbox height="38" width="38" x="251" y="489"/>
+			<attribute name="BoundingCharPts" compValue="5" char="T"/>
+			<bbox height="29" width="31" x="270" y="468"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="28" width="29" x="293" y="456"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="32" width="34" x="306" y="431"/>
+		</object>
+		<object id="16" VALUE="ARABIANSEA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="35" width="32" x="91" y="1593"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="37" width="23" x="128" y="1593"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="36" width="31" x="153" y="1593"/>
+			<attribute name="BoundingCharPts" compValue="4" char="B"/>
+			<bbox height="38" width="27" x="186" y="1592"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="38" width="8" x="217" y="1593"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="38" width="35" x="226" y="1592"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="39" width="30" x="263" y="1592"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="38" width="27" x="304" y="1594"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="36" width="25" x="334" y="1595"/>
+			<attribute name="BoundingCharPts" compValue="10" char="A"/>
+			<bbox height="38" width="33" x="361" y="1596"/>
+		</object>
+		<object id="17" VALUE="INDIA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="66" width="18" x="1299" y="157"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="72" width="58" x="1323" y="155"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="68" width="58" x="1393" y="157"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="68" width="18" x="1459" y="159"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="66" width="58" x="1483" y="159"/>
+		</object>
+		<object id="18" VALUE="BENGAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="35" width="26" x="1428" y="1332"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="40" width="26" x="1456" y="1329"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="35" width="28" x="1487" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="38" width="31" x="1520" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="36" width="33" x="1553" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="6" char="L"/>
+			<bbox height="35" width="26" x="1589" y="1332"/>
+		</object>
+		<object id="19" VALUE="ARABIAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="37" width="33" x="90" y="1592"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="36" width="25" x="125" y="1593"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="34" width="31" x="153" y="1594"/>
+			<attribute name="BoundingCharPts" compValue="4" char="B"/>
+			<bbox height="39" width="26" x="187" y="1592"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="39" width="11" x="216" y="1593"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="39" width="32" x="229" y="1592"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="37" width="29" x="263" y="1595"/>
+		</object>
+		<object id="20" VALUE="NEPAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="N"/>
+			<bbox height="36" width="34" x="971" y="616"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="34" width="27" x="999" y="628"/>
+			<attribute name="BoundingCharPts" compValue="3" char="P"/>
+			<bbox height="27" width="29" x="1022" y="639"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="30" width="24" x="1044" y="652"/>
+			<attribute name="BoundingCharPts" compValue="5" char="L"/>
+			<bbox height="32" width="18" x="1068" y="658"/>
+		</object>
+		<object id="21" VALUE="PAKISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="P"/>
+			<bbox height="34" width="24" x="201" y="553"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="30" width="30" x="223" y="538"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="33" width="33" x="233" y="514"/>
+			<attribute name="BoundingBox" compValue="4" char="IS"/>
+			<bbox height="38" width="36" x="252" y="489"/>
+			<attribute name="BoundingCharPts" compValue="5" char="T"/>
+			<bbox height="30" width="30" x="271" y="467"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="27" width="29" x="293" y="457"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="33" width="33" x="307" y="431"/>
+		</object>
+		<object id="22" VALUE="CHINA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="30" width="30" x="964" y="481"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="35" width="32" x="987" y="492"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="25" width="16" x="1011" y="505"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="33" width="31" x="1019" y="512"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="30" width="27" x="1040" y="527"/>
+		</object>
+		<object id="23" VALUE="MYANMAR">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="49" width="46" x="1759" y="1039"/>
+			<attribute name="BoundingCharPts" compValue="2" char="Y"/>
+			<bbox height="32" width="40" x="1778" y="1005"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="30" width="39" x="1797" y="990"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="42" width="42" x="1808" y="946"/>
+			<attribute name="BoundingCharPts" compValue="5" char="M"/>
+			<bbox height="50" width="45" x="1825" y="906"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="31" width="39" x="1848" y="885"/>
+			<attribute name="BoundingCharPts" compValue="7" char="R"/>
+			<bbox height="35" width="42" x="1861" y="849"/>
+		</object>
+		<object id="24" VALUE="BHUTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="31" width="25" x="1400" y="699"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="31" width="25" x="1427" y="698"/>
+			<attribute name="BoundingCharPts" compValue="3" char="U"/>
+			<bbox height="29" width="26" x="1454" y="696"/>
+			<attribute name="BoundingCharPts" compValue="4" char="T"/>
+			<bbox height="32" width="20" x="1480" y="693"/>
+			<attribute name="BoundingBox" compValue="5" char="AN"/>
+			<bbox height="31" width="51" x="1504" y="692"/>
+		</object>
+		<object id="25" VALUE="SRILANKA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="S"/>
+			<bbox height="33" width="23" x="847" y="2119"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="29" width="23" x="872" y="2119"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="28" width="8" x="898" y="2122"/>
+			<attribute name="BoundingCharPts" compValue="4" char="L"/>
+			<bbox height="28" width="19" x="909" y="2121"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="30" width="26" x="930" y="2118"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="29" width="23" x="958" y="2117"/>
+			<attribute name="BoundingCharPts" compValue="7" char="K"/>
+			<bbox height="29" width="21" x="988" y="2117"/>
+			<attribute name="BoundingCharPts" compValue="8" char="A"/>
+			<bbox height="31" width="26" x="1011" y="2115"/>
+		</object>
+		<object id="26" VALUE="AFGHANISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="30" width="30" x="79" y="252"/>
+			<attribute name="BoundingCharPts" compValue="2" char="F"/>
+			<bbox height="37" width="21" x="101" y="229"/>
+			<attribute name="BoundingCharPts" compValue="3" char="G"/>
+			<bbox height="33" width="34" x="124" y="212"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="39" width="36" x="147" y="188"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="35" width="30" x="180" y="176"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="38" width="40" x="195" y="154"/>
+			<attribute name="BoundingCharPts" compValue="7" char="I"/>
+			<bbox height="31" width="22" x="226" y="141"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="35" width="35" x="241" y="124"/>
+			<attribute name="BoundingCharPts" compValue="9" char="T"/>
+			<bbox height="31" width="31" x="262" y="107"/>
+			<attribute name="BoundingCharPts" compValue="10" char="A"/>
+			<bbox height="35" width="34" x="291" y="93"/>
+			<attribute name="BoundingCharPts" compValue="11" char="N"/>
+			<bbox height="37" width="41" x="309" y="69"/>
+		</object>
+	</file>
+	<file name="012.tif">
+		<object id="1" VALUE="AFGHANISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="40" width="30" x="116" y="208"/>
+			<attribute name="BoundingCharPts" compValue="2" char="F"/>
+			<bbox height="46" width="25" x="149" y="191"/>
+			<attribute name="BoundingCharPts" compValue="3" char="G"/>
+			<bbox height="45" width="31" x="178" y="179"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="46" width="31" x="215" y="163"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="39" width="34" x="253" y="154"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="45" width="30" x="290" y="133"/>
+			<attribute name="BoundingCharPts" compValue="7" char="I"/>
+			<bbox height="40" width="12" x="327" y="125"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="39" width="28" x="340" y="118"/>
+			<attribute name="BoundingCharPts" compValue="9" char="T"/>
+			<bbox height="37" width="30" x="366" y="101"/>
+			<attribute name="BoundingCharPts" compValue="10" char="A"/>
+			<bbox height="39" width="33" x="400" y="94"/>
+			<attribute name="BoundingCharPts" compValue="11" char="N"/>
+			<bbox height="40" width="30" x="432" y="74"/>
+		</object>
+		<object id="2" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="30" width="42" x="1675" y="1040"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="27" width="39" x="1695" y="1071"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="27" width="41" x="1720" y="1091"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="31" width="35" x="1746" y="1118"/>
+			<attribute name="BoundingCharPts" compValue="5" char="L"/>
+			<bbox height="27" width="29" x="1767" y="1144"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="29" width="39" x="1784" y="1167"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="32" width="41" x="1808" y="1188"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="33" width="41" x="1831" y="1212"/>
+			<attribute name="BoundingCharPts" compValue="9" char="S"/>
+			<bbox height="29" width="39" x="1850" y="1239"/>
+			<attribute name="BoundingCharPts" compValue="10" char="H"/>
+			<bbox height="35" width="45" x="1871" y="1261"/>
+		</object>
+		<object id="3" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="39" width="47" x="1299" y="1823"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="42" width="54" x="1355" y="1823"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="44" width="49" x="1411" y="1825"/>
+		</object>
+		<object id="4" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="39" width="25" x="181" y="2340"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="36" width="27" x="211" y="2340"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="37" width="30" x="241" y="2343"/>
+			<attribute name="BoundingCharPts" compValue="4" char="S"/>
+			<bbox height="40" width="28" x="275" y="2340"/>
+			<attribute name="BoundingCharPts" compValue="5" char="H"/>
+			<bbox height="36" width="30" x="306" y="2345"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="33" width="34" x="337" y="2348"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="40" width="33" x="376" y="2343"/>
+			<attribute name="BoundingCharPts" compValue="8" char="W"/>
+			<bbox height="39" width="43" x="414" y="2345"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="40" width="24" x="460" y="2345"/>
+			<attribute name="BoundingCharPts" compValue="10" char="E"/>
+			<bbox height="39" width="24" x="489" y="2346"/>
+			<attribute name="BoundingCharPts" compValue="11" char="P"/>
+			<bbox height="39" width="27" x="519" y="2346"/>
+		</object>
+		<object id="5" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="53" width="36" x="1280" y="2690"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="49" width="34" x="1341" y="2690"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="53" width="29" x="1405" y="2691"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="51" width="43" x="1450" y="2693"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="53" width="38" x="1510" y="2691"/>
+		</object>
+	</file>
+	<file name="013.tif">
+		<object id="1" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="55" width="48" x="1187" y="2875"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="57" width="48" x="1316" y="2870"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="55" width="45" x="1445" y="2870"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="55" width="49" x="1563" y="2876"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="55" width="54" x="1683" y="2875"/>
+		</object>
+		<object id="2" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="30" width="26" x="119" y="2201"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="27" width="21" x="136" y="2235"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="36" width="36" x="142" y="2255"/>
+			<attribute name="BoundingCharPts" compValue="4" char="S"/>
+			<bbox height="24" width="31" x="157" y="2284"/>
+			<attribute name="BoundingCharPts" compValue="5" char="H"/>
+			<bbox height="34" width="35" x="166" y="2305"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="28" width="33" x="179" y="2342"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="30" width="33" x="195" y="2364"/>
+			<attribute name="BoundingCharPts" compValue="8" char="W"/>
+			<bbox height="33" width="36" x="215" y="2391"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="30" width="32" x="229" y="2428"/>
+			<attribute name="BoundingCharPts" compValue="10" char="E"/>
+			<bbox height="28" width="34" x="238" y="2454"/>
+			<attribute name="BoundingCharPts" compValue="11" char="P"/>
+			<bbox height="20" width="34" x="250" y="2479"/>
+		</object>
+		<object id="3" VALUE="Chennai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="46" width="36" x="1023" y="2245"/>
+			<attribute name="BoundingCharPts" compValue="2" char="h"/>
+			<bbox height="47" width="26" x="1066" y="2243"/>
+			<attribute name="BoundingCharPts" compValue="3" char="e"/>
+			<bbox height="30" width="25" x="1096" y="2261"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="30" width="24" x="1126" y="2261"/>
+			<attribute name="BoundingCharPts" compValue="5" char="n"/>
+			<bbox height="30" width="25" x="1158" y="2261"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="30" width="23" x="1188" y="2263"/>
+			<attribute name="BoundingCharPts" compValue="7" char="i"/>
+			<bbox height="44" width="9" x="1217" y="2248"/>
+		</object>
+		<object id="4" VALUE="Mumbai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="44" width="48" x="185" y="1729"/>
+			<attribute name="BoundingCharPts" compValue="2" char="u"/>
+			<bbox height="30" width="21" x="239" y="1744"/>
+			<attribute name="BoundingCharPts" compValue="3" char="m"/>
+			<bbox height="32" width="42" x="266" y="1744"/>
+			<attribute name="BoundingCharPts" compValue="4" char="b"/>
+			<bbox height="43" width="26" x="317" y="1732"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="30" width="24" x="347" y="1746"/>
+			<attribute name="BoundingCharPts" compValue="6" char="i"/>
+			<bbox height="30" width="9" x="375" y="1745"/>
+		</object>
+		<object id="5" VALUE="kolkata">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="k"/>
+			<bbox height="42" width="27" x="1701" y="1439"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="27" width="28" x="1731" y="1454"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="44" width="9" x="1766" y="1440"/>
+			<attribute name="BoundingCharPts" compValue="4" char="k"/>
+			<bbox height="42" width="26" x="1783" y="1442"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="31" width="22" x="1814" y="1454"/>
+			<attribute name="BoundingCharPts" compValue="6" char="t"/>
+			<bbox height="35" width="13" x="1841" y="1449"/>
+			<attribute name="BoundingCharPts" compValue="7" char="a"/>
+			<bbox height="29" width="24" x="1858" y="1456"/>
+		</object>
+		<object id="6" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="51" width="45" x="1499" y="1752"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="53" width="53" x="1549" y="1752"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="54" width="48" x="1607" y="1752"/>
+		</object>
+		<object id="7" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="34" width="27" x="1655" y="1253"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="27" width="31" x="1685" y="1257"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="28" width="25" x="1718" y="1256"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="33" width="28" x="1751" y="1254"/>
+			<attribute name="BoundingCharPts" compValue="5" char="L"/>
+			<bbox height="34" width="12" x="1784" y="1256"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="31" width="31" x="1811" y="1256"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="31" width="27" x="1847" y="1256"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="33" width="21" x="1878" y="1256"/>
+			<attribute name="BoundingCharPts" compValue="9" char="S"/>
+			<bbox height="30" width="22" x="1905" y="1257"/>
+			<attribute name="BoundingCharPts" compValue="10" char="H"/>
+			<bbox height="31" width="28" x="1932" y="1256"/>
+		</object>
+		<object id="8" VALUE="Bengaluru">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="46" width="36" x="519" y="2247"/>
+			<attribute name="BoundingCharPts" compValue="2" char="e"/>
+			<bbox height="36" width="27" x="563" y="2261"/>
+			<attribute name="BoundingCharPts" compValue="3" char="n"/>
+			<bbox height="34" width="31" x="596" y="2261"/>
+			<attribute name="BoundingCharPts" compValue="4" char="g"/>
+			<bbox height="48" width="31" x="632" y="2262"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="33" width="27" x="668" y="2264"/>
+			<attribute name="BoundingCharPts" compValue="6" char="l"/>
+			<bbox height="49" width="13" x="702" y="2249"/>
+			<attribute name="BoundingCharPts" compValue="7" char="u"/>
+			<bbox height="33" width="25" x="725" y="2264"/>
+			<attribute name="BoundingCharPts" compValue="8" char="r"/>
+			<bbox height="34" width="21" x="758" y="2265"/>
+			<attribute name="BoundingCharPts" compValue="9" char="u"/>
+			<bbox height="34" width="27" x="785" y="2264"/>
+		</object>
+		<object id="9" VALUE="INDIA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="96" width="21" x="1692" y="167"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="99" width="85" x="1727" y="164"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="99" width="85" x="1827" y="166"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="103" width="25" x="1925" y="163"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="97" width="102" x="1956" y="169"/>
+		</object>
+		<object id="10" VALUE="BENGAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="52" width="49" x="1794" y="1757"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="54" width="42" x="1851" y="1758"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="52" width="45" x="1896" y="1758"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="52" width="48" x="1950" y="1758"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="51" width="55" x="2003" y="1761"/>
+			<attribute name="BoundingCharPts" compValue="6" char="L"/>
+			<bbox height="54" width="42" x="2064" y="1760"/>
+		</object>
+		<object id="11" VALUE="ARABIAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="54" width="57" x="91" y="1692"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="55" width="60" x="112" y="1735"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="54" width="57" x="131" y="1795"/>
+			<attribute name="BoundingCharPts" compValue="4" char="B"/>
+			<bbox height="52" width="60" x="154" y="1837"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="30" width="51" x="173" y="1888"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="49" width="61" x="179" y="1921"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="58" width="63" x="208" y="1960"/>
+		</object>
+		<object id="12" VALUE="NEPAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="NE"/>
+			<bbox height="97" width="124" x="1173" y="889"/>
+			<attribute name="BoundingCharPts" compValue="2" char="P"/>
+			<bbox height="60" width="54" x="1283" y="937"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="64" width="58" x="1322" y="967"/>
+			<attribute name="BoundingCharPts" compValue="4" char="L"/>
+			<bbox height="72" width="46" x="1385" y="982"/>
+		</object>
+		<object id="13" VALUE="PAKISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="P"/>
+			<bbox height="61" width="61" x="59" y="929"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="57" width="66" x="112" y="861"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="78" width="82" x="145" y="752"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="49" width="64" x="193" y="680"/>
+			<attribute name="BoundingCharPts" compValue="5" char="S"/>
+			<bbox height="57" width="64" x="232" y="599"/>
+			<attribute name="BoundingCharPts" compValue="6" char="T"/>
+			<bbox height="58" width="69" x="269" y="498"/>
+			<attribute name="BoundingCharPts" compValue="7" char="A"/>
+			<bbox height="63" width="66" x="325" y="417"/>
+			<attribute name="BoundingCharPts" compValue="8" char="N"/>
+			<bbox height="76" width="81" x="352" y="306"/>
+		</object>
+		<object id="14" VALUE="CHINA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="90" width="75" x="1065" y="624"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="90" width="81" x="1341" y="753"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="87" width="30" x="1641" y="819"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="75" width="69" x="1887" y="819"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="81" width="75" x="2118" y="732"/>
+		</object>
+		<object id="15" VALUE="MYANMAR">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="49" width="48" x="2175" y="1529"/>
+			<attribute name="BoundingCharPts" compValue="2" char="Y"/>
+			<bbox height="30" width="41" x="2195" y="1498"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="30" width="38" x="2216" y="1481"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="42" width="43" x="2226" y="1436"/>
+			<attribute name="BoundingCharPts" compValue="5" char="M"/>
+			<bbox height="48" width="46" x="2244" y="1399"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="30" width="36" x="2270" y="1377"/>
+			<attribute name="BoundingCharPts" compValue="7" char="R"/>
+			<bbox height="36" width="41" x="2281" y="1341"/>
+		</object>
+		<object id="16" VALUE="BHUTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="33" width="27" x="1724" y="1026"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="32" width="26" x="1756" y="1026"/>
+			<attribute name="BoundingCharPts" compValue="3" char="U"/>
+			<bbox height="31" width="30" x="1787" y="1025"/>
+			<attribute name="BoundingCharPts" compValue="4" char="T"/>
+			<bbox height="33" width="18" x="1828" y="1024"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="27" width="30" x="1849" y="1030"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="30" width="28" x="1881" y="1025"/>
+		</object>
+		<object id="17" VALUE="SRILANKA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="S"/>
+			<bbox height="43" width="27" x="972" y="2771"/>
+			<attribute name="BoundingBox" compValue="2" char="RI"/>
+			<bbox height="43" width="49" x="1004" y="2771"/>
+			<attribute name="BoundingCharPts" compValue="3" char="L"/>
+			<bbox height="40" width="25" x="1056" y="2773"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="39" width="39" x="1086" y="2776"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="36" width="37" x="1125" y="2776"/>
+			<attribute name="BoundingBox" compValue="6" char="KA"/>
+			<bbox height="46" width="76" x="1164" y="2771"/>
+		</object>
+		<object id="18" VALUE="Delhi">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="D"/>
+			<bbox height="35" width="31" x="820" y="911"/>
+			<attribute name="BoundingCharPts" compValue="2" char="e"/>
+			<bbox height="26" width="23" x="854" y="920"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="34" width="7" x="882" y="912"/>
+			<attribute name="BoundingCharPts" compValue="4" char="h"/>
+			<bbox height="37" width="24" x="894" y="911"/>
+			<attribute name="BoundingCharPts" compValue="5" char="i"/>
+			<bbox height="36" width="9" x="919" y="911"/>
+		</object>
+	</file>
+	<file name="014.tif">
+		<object id="1" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="0"/>
+			<bbox height="43" width="39" x="918" y="2200"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="47" width="37" x="1019" y="2194"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="42" width="35" x="1126" y="2195"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="42" width="44" x="1200" y="2192"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="46" width="42" x="1311" y="2186"/>
+		</object>
+		<object id="2" VALUE="Kolkata">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="39" width="38" x="1329" y="1079"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="28" width="26" x="1371" y="1090"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="39" width="9" x="1402" y="1079"/>
+			<attribute name="BoundingCharPts" compValue="4" char="k"/>
+			<bbox height="39" width="25" x="1417" y="1079"/>
+			<attribute name="BoundingCharPts" compValue="5" char="at"/>
+			<bbox height="33" width="40" x="1446" y="1083"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="30" width="23" x="1490" y="1086"/>
+		</object>
+		<object id="3" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="43" width="32" x="1135" y="1335"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="40" width="38" x="1172" y="1336"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="40" width="35" x="1215" y="1334"/>
+		</object>
+		<object id="4" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="23" width="20" x="145" y="1819"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="20" width="17" x="158" y="1845"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="26" width="19" x="165" y="1862"/>
+			<attribute name="BoundingCharPts" compValue="4" char="S"/>
+			<bbox height="19" width="17" x="179" y="1882"/>
+			<attribute name="BoundingCharPts" compValue="5" char="H"/>
+			<bbox height="25" width="27" x="179" y="1902"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="18" width="17" x="194" y="1930"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="19" width="25" x="199" y="1948"/>
+			<attribute name="BoundingCharPts" compValue="8" char="W"/>
+			<bbox height="22" width="23" x="214" y="1972"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="18" width="25" x="221" y="2000"/>
+			<attribute name="BoundingCharPts" compValue="10" char="E"/>
+			<bbox height="22" width="24" x="229" y="2017"/>
+			<attribute name="BoundingCharPts" compValue="11" char="P"/>
+			<bbox height="14" width="23" x="239" y="2038"/>
+		</object>
+		<object id="5" VALUE="INDIA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="74" width="24" x="1163" y="85"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="78" width="64" x="1199" y="83"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="80" width="68" x="1271" y="81"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="82" width="22" x="1347" y="77"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="80" width="74" x="1371" y="77"/>
+		</object>
+		<object id="6" VALUE="BENGAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="41" width="37" x="1360" y="1330"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="42" width="40" x="1436" y="1329"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="44" width="36" x="1479" y="1326"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="43" width="44" x="1520" y="1327"/>
+			<attribute name="BoundingCharPts" compValue="6" char="L"/>
+			<bbox height="44" width="35" x="1563" y="1324"/>
+		</object>
+		<object id="7" VALUE="ARABIAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="38" width="46" x="102" y="1368"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="46" width="44" x="123" y="1398"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="38" width="46" x="139" y="1445"/>
+			<attribute name="BoundingCharPts" compValue="4" char="B"/>
+			<bbox height="42" width="46" x="160" y="1473"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="26" width="43" x="177" y="1508"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="38" width="48" x="183" y="1536"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="47" width="52" x="208" y="1562"/>
+		</object>
+		<object id="8" VALUE="PAKISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="P"/>
+			<bbox height="48" width="46" x="32" y="747"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="52" width="50" x="83" y="677"/>
+			<attribute name="BoundingCharPts" compValue="3" char="K"/>
+			<bbox height="58" width="58" x="116" y="589"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="42" width="48" x="151" y="538"/>
+			<attribute name="BoundingCharPts" compValue="5" char="S"/>
+			<bbox height="44" width="52" x="175" y="476"/>
+			<attribute name="BoundingCharPts" compValue="6" char="T"/>
+			<bbox height="42" width="56" x="194" y="396"/>
+			<attribute name="BoundingCharPts" compValue="7" char="A"/>
+			<bbox height="54" width="50" x="225" y="326"/>
+			<attribute name="BoundingCharPts" compValue="8" char="N"/>
+			<bbox height="48" width="50" x="239" y="248"/>
+		</object>
+		<object id="9" VALUE="BHUTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="25" width="19" x="1285" y="776"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="23" width="21" x="1308" y="776"/>
+			<attribute name="BoundingCharPts" compValue="3" char="U"/>
+			<bbox height="23" width="21" x="1334" y="777"/>
+			<attribute name="BoundingCharPts" compValue="4" char="T"/>
+			<bbox height="25" width="15" x="1362" y="775"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="21" width="19" x="1381" y="777"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="25" width="22" x="1404" y="775"/>
+		</object>
+		<object id="10" VALUE="SRILANKA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="S"/>
+			<bbox height="34" width="18" x="768" y="2132"/>
+			<attribute name="BoundingBox" compValue="2" char="RI"/>
+			<bbox height="34" width="37" x="789" y="2131"/>
+			<attribute name="BoundingBox" compValue="3" char="LA"/>
+			<bbox height="31" width="54" x="828" y="2131"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="32" width="30" x="883" y="2130"/>
+			<attribute name="BoundingCharPts" compValue="5" char="K"/>
+			<bbox height="30" width="27" x="916" y="2130"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="26" width="28" x="945" y="2134"/>
+		</object>
+		<object id="11" VALUE="NEPAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="N"/>
+			<bbox height="54" width="54" x="894" y="656"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="50" width="46" x="941" y="676"/>
+			<attribute name="BoundingCharPts" compValue="3" char="P"/>
+			<bbox height="42" width="42" x="980" y="695"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="54" width="42" x="1011" y="719"/>
+			<attribute name="BoundingCharPts" compValue="5" char="L"/>
+			<bbox height="66" width="35" x="1058" y="722"/>
+		</object>
+	</file>
+	<file name="015.tif">
+		<object id="1" VALUE="KOLKATA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="35" width="35" x="1176" y="2045"/>
+			<attribute name="BoundingCharPts" compValue="2" char="O"/>
+			<bbox height="33" width="32" x="1200" y="2026"/>
+			<attribute name="BoundingCharPts" compValue="3" char="L"/>
+			<bbox height="30" width="37" x="1216" y="2012"/>
+			<attribute name="BoundingCharPts" compValue="4" char="K"/>
+			<bbox height="25" width="33" x="1238" y="1998"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="23" width="27" x="1267" y="1974"/>
+			<attribute name="BoundingCharPts" compValue="6" char="T"/>
+			<bbox height="32" width="26" x="1283" y="1948"/>
+			<attribute name="BoundingCharPts" compValue="7" char="A"/>
+			<bbox height="20" width="29" x="1305" y="1936"/>
+		</object>
+		<object id="2" VALUE="RIVER">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="R"/>
+			<bbox height="86" width="68" x="662" y="306"/>
+			<attribute name="BoundingCharPts" compValue="2" char="I"/>
+			<bbox height="86" width="17" x="745" y="308"/>
+			<attribute name="BoundingCharPts" compValue="3" char="V"/>
+			<bbox height="88" width="74" x="765" y="304"/>
+			<attribute name="BoundingCharPts" compValue="4" char="E"/>
+			<bbox height="90" width="62" x="847" y="302"/>
+			<attribute name="BoundingCharPts" compValue="5" char="R"/>
+			<bbox height="90" width="72" x="922" y="300"/>
+		</object>
+	</file>
+	<file name="016.tif">
+		<object id="1" VALUE="AFGHANISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="27" width="30" x="25" y="221"/>
+			<attribute name="BoundingCharPts" compValue="2" char="F"/>
+			<bbox height="36" width="25" x="43" y="199"/>
+			<attribute name="BoundingCharPts" compValue="3" char="G"/>
+			<bbox height="39" width="33" x="65" y="178"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="37" width="39" x="88" y="158"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="34" width="30" x="122" y="143"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="45" width="37" x="139" y="110"/>
+			<attribute name="BoundingCharPts" compValue="7" char="I"/>
+			<bbox height="33" width="24" x="167" y="101"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="36" width="31" x="178" y="86"/>
+			<attribute name="BoundingCharPts" compValue="9" char="T"/>
+			<bbox height="25" width="24" x="203" y="74"/>
+			<attribute name="BoundingCharPts" compValue="10" char="A"/>
+			<bbox height="36" width="28" x="230" y="55"/>
+			<attribute name="BoundingCharPts" compValue="11" char="N"/>
+			<bbox height="28" width="37" x="245" y="40"/>
+		</object>
+		<object id="2" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="36" width="27" x="1312" y="1702"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="34" width="30" x="1346" y="1705"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="34" width="31" x="1379" y="1704"/>
+		</object>
+	</file>
+	<file name="017.tif">
+		<object id="1" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="41" width="29" x="2194" y="1250"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="41" width="36" x="2227" y="1250"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="42" width="35" x="2272" y="1249"/>
+		</object>
+	</file>
+	<file name="025.tif">
+		<object id="1" VALUE="Kolkata">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="41" width="30" x="1005" y="328"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="28" width="25" x="1038" y="340"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="27" width="5" x="1069" y="343"/>
+			<attribute name="BoundingCharPts" compValue="4" char="k"/>
+			<bbox height="42" width="22" x="1079" y="330"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="30" width="25" x="1105" y="342"/>
+			<attribute name="BoundingCharPts" compValue="6" char="t"/>
+			<bbox height="36" width="11" x="1137" y="336"/>
+			<attribute name="BoundingCharPts" compValue="7" char="a"/>
+			<bbox height="31" width="23" x="1151" y="343"/>
+		</object>
+		<object id="2" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="39" width="30" x="89" y="1789"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="33" width="26" x="153" y="1791"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="39" width="32" x="213" y="1793"/>
+		</object>
+	</file>
+	<file name="027.tif">
+		<object id="1" VALUE="Pamir Knot">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="P"/>
+			<bbox height="35" width="24" x="83" y="66"/>
+			<attribute name="BoundingCharPts" compValue="2" char="a"/>
+			<bbox height="27" width="27" x="110" y="76"/>
+			<attribute name="BoundingCharPts" compValue="3" char="m"/>
+			<bbox height="24" width="36" x="136" y="75"/>
+			<attribute name="BoundingCharPts" compValue="4" char="i"/>
+			<bbox height="24" width="6" x="174" y="75"/>
+			<attribute name="BoundingCharPts" compValue="5" char="r"/>
+			<bbox height="24" width="15" x="184" y="75"/>
+			<attribute name="BoundingCharPts" compValue="6" char="K"/>
+			<bbox height="39" width="30" x="210" y="66"/>
+			<attribute name="BoundingCharPts" compValue="7" char="n"/>
+			<bbox height="24" width="23" x="243" y="76"/>
+			<attribute name="BoundingCharPts" compValue="8" char="o"/>
+			<bbox height="25" width="24" x="267" y="76"/>
+			<attribute name="BoundingCharPts" compValue="9" char="t"/>
+			<bbox height="33" width="9" x="294" y="69"/>
+		</object>
+		<object id="2" VALUE="Afghanistan">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="36" width="35" x="31" y="311"/>
+			<attribute name="BoundingCharPts" compValue="2" char="f"/>
+			<bbox height="31" width="22" x="50" y="297"/>
+			<attribute name="BoundingCharPts" compValue="3" char="g"/>
+			<bbox height="35" width="30" x="66" y="291"/>
+			<attribute name="BoundingCharPts" compValue="4" char="h"/>
+			<bbox height="28" width="36" x="78" y="278"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="27" width="30" x="105" y="263"/>
+			<attribute name="BoundingCharPts" compValue="6" char="n"/>
+			<bbox height="27" width="30" x="124" y="249"/>
+			<attribute name="BoundingCharPts" compValue="7" char="i"/>
+			<bbox height="21" width="17" x="144" y="238"/>
+			<attribute name="BoundingCharPts" compValue="8" char="s"/>
+			<bbox height="24" width="25" x="153" y="228"/>
+			<attribute name="BoundingCharPts" compValue="9" char="t"/>
+			<bbox height="25" width="25" x="165" y="214"/>
+			<attribute name="BoundingCharPts" compValue="10" char="a"/>
+			<bbox height="25" width="27" x="181" y="207"/>
+			<attribute name="BoundingCharPts" compValue="11" char="n"/>
+			<bbox height="27" width="30" x="198" y="192"/>
+		</object>
+		<object id="3" VALUE="Pakistan">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="P"/>
+			<bbox height="38" width="28" x="147" y="414"/>
+			<attribute name="BoundingCharPts" compValue="2" char="a"/>
+			<bbox height="27" width="29" x="177" y="406"/>
+			<attribute name="BoundingCharPts" compValue="3" char="k"/>
+			<bbox height="29" width="37" x="189" y="388"/>
+			<attribute name="BoundingCharPts" compValue="4" char="i"/>
+			<bbox height="21" width="19" x="213" y="381"/>
+			<attribute name="BoundingCharPts" compValue="5" char="s"/>
+			<bbox height="26" width="26" x="222" y="369"/>
+			<attribute name="BoundingCharPts" compValue="6" char="t"/>
+			<bbox height="27" width="24" x="234" y="353"/>
+			<attribute name="BoundingCharPts" compValue="7" char="a"/>
+			<bbox height="25" width="27" x="251" y="346"/>
+			<attribute name="BoundingCharPts" compValue="8" char="n"/>
+			<bbox height="27" width="29" x="267" y="329"/>
+		</object>
+		<object id="4" VALUE="INDIA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="63" width="16" x="917" y="122"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="66" width="46" x="940" y="119"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="61" width="45" x="995" y="122"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="63" width="13" x="1049" y="122"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="63" width="48" x="1070" y="122"/>
+		</object>
+		<object id="5" VALUE="China">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="33" width="27" x="736" y="423"/>
+			<attribute name="BoundingCharPts" compValue="2" char="h"/>
+			<bbox height="33" width="21" x="776" y="422"/>
+			<attribute name="BoundingCharPts" compValue="3" char="i"/>
+			<bbox height="23" width="7" x="812" y="432"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="24" width="18" x="833" y="430"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="24" width="20" x="866" y="430"/>
+		</object>
+		<object id="6" VALUE="Myanmar">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="32" width="35" x="1203" y="710"/>
+			<attribute name="BoundingCharPts" compValue="2" char="y"/>
+			<bbox height="32" width="20" x="1244" y="721"/>
+			<attribute name="BoundingCharPts" compValue="3" char="a"/>
+			<bbox height="25" width="21" x="1269" y="720"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="24" width="23" x="1292" y="721"/>
+			<attribute name="BoundingCharPts" compValue="5" char="m"/>
+			<bbox height="23" width="33" x="1319" y="722"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="23" width="22" x="1355" y="722"/>
+			<attribute name="BoundingCharPts" compValue="7" char="r"/>
+			<bbox height="25" width="13" x="1380" y="720"/>
+		</object>
+		<object id="7" VALUE="TropicofCancer">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="T"/>
+			<bbox height="34" width="27" x="620" y="699"/>
+			<attribute name="BoundingCharPts" compValue="2" char="r"/>
+			<bbox height="26" width="12" x="650" y="707"/>
+			<attribute name="BoundingCharPts" compValue="3" char="o"/>
+			<bbox height="27" width="23" x="666" y="706"/>
+			<attribute name="BoundingCharPts" compValue="4" char="p"/>
+			<bbox height="33" width="23" x="692" y="705"/>
+			<attribute name="BoundingCharPts" compValue="5" char="i"/>
+			<bbox height="25" width="7" x="719" y="704"/>
+			<attribute name="BoundingCharPts" compValue="6" char="c"/>
+			<bbox height="27" width="23" x="728" y="702"/>
+			<attribute name="BoundingCharPts" compValue="7" char="o"/>
+			<bbox height="27" width="25" x="767" y="699"/>
+			<attribute name="BoundingCharPts" compValue="8" char="f"/>
+			<bbox height="34" width="12" x="795" y="689"/>
+			<attribute name="BoundingCharPts" compValue="9" char="C"/>
+			<bbox height="36" width="28" x="824" y="687"/>
+			<attribute name="BoundingCharPts" compValue="10" char="a"/>
+			<bbox height="25" width="24" x="854" y="693"/>
+			<attribute name="BoundingCharPts" compValue="11" char="n"/>
+			<bbox height="26" width="24" x="878" y="690"/>
+			<attribute name="BoundingCharPts" compValue="12" char="c"/>
+			<bbox height="30" width="26" x="904" y="687"/>
+			<attribute name="BoundingCharPts" compValue="13" char="e"/>
+			<bbox height="27" width="19" x="929" y="687"/>
+			<attribute name="BoundingCharPts" compValue="14" char="r"/>
+			<bbox height="27" width="15" x="953" y="684"/>
+		</object>
+		<object id="8" VALUE="ARABIAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="36" width="32" x="68" y="909"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="35" width="29" x="100" y="910"/>
+			<attribute name="BoundingCharPts" compValue="3" char="AB"/>
+			<bbox height="36" width="55" x="129" y="910"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="32" width="10" x="187" y="913"/>
+			<attribute name="BoundingCharPts" compValue="5" char="AN"/>
+			<bbox height="36" width="58" x="197" y="913"/>
+		</object>
+		<object id="9" VALUE="SEA">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="38" width="85" x="125" y="1003"/>
+		</object>
+		<object id="10" VALUE="Minicoy">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="36" width="35" x="111" y="1196"/>
+			<attribute name="BoundingCharPts" compValue="2" char="i"/>
+			<bbox height="27" width="7" x="150" y="1205"/>
+			<attribute name="BoundingCharPts" compValue="3" char="n"/>
+			<bbox height="27" width="24" x="159" y="1205"/>
+			<attribute name="BoundingCharPts" compValue="4" char="i"/>
+			<bbox height="36" width="9" x="184" y="1196"/>
+			<attribute name="BoundingCharPts" compValue="5" char="c"/>
+			<bbox height="28" width="23" x="195" y="1204"/>
+			<attribute name="BoundingCharPts" compValue="6" char="o"/>
+			<bbox height="28" width="25" x="219" y="1205"/>
+			<attribute name="BoundingCharPts" compValue="7" char="y"/>
+			<bbox height="35" width="22" x="245" y="1206"/>
+		</object>
+		<object id="11" VALUE="Kanyakumari">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="36" width="29" x="327" y="1384"/>
+			<attribute name="BoundingCharPts" compValue="2" char="a"/>
+			<bbox height="26" width="22" x="358" y="1392"/>
+			<attribute name="BoundingCharPts" compValue="3" char="n"/>
+			<bbox height="27" width="24" x="383" y="1392"/>
+			<attribute name="BoundingCharPts" compValue="4" char="y"/>
+			<bbox height="33" width="24" x="408" y="1395"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="27" width="23" x="434" y="1394"/>
+			<attribute name="BoundingCharPts" compValue="6" char="k"/>
+			<bbox height="35" width="23" x="460" y="1386"/>
+			<attribute name="BoundingCharPts" compValue="7" char="u"/>
+			<bbox height="27" width="26" x="482" y="1395"/>
+			<attribute name="BoundingBox" compValue="8" char="ma"/>
+			<bbox height="27" width="64" x="511" y="1395"/>
+			<attribute name="BoundingBox" compValue="9" char="ri"/>
+			<bbox height="25" width="24" x="575" y="1394"/>
+		</object>
+		<object id="12" VALUE="BAYOFBENGAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="37" width="30" x="845" y="926"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="34" width="30" x="875" y="926"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="33" width="31" x="902" y="927"/>
+			<attribute name="BoundingBox" compValue="4" char="OF"/>
+			<bbox height="37" width="61" x="945" y="926"/>
+			<attribute name="BoundingCharPts" compValue="5" char="B"/>
+			<bbox height="37" width="29" x="1020" y="924"/>
+			<attribute name="BoundingCharPts" compValue="6" char="EN"/>
+			<bbox height="36" width="57" x="1053" y="924"/>
+			<attribute name="BoundingCharPts" compValue="7" char="G"/>
+			<bbox height="37" width="30" x="1113" y="923"/>
+			<attribute name="BoundingCharPts" compValue="8" char="A"/>
+			<bbox height="36" width="27" x="1145" y="926"/>
+			<attribute name="BoundingCharPts" compValue="9" char="L"/>
+			<bbox height="33" width="27" x="1175" y="927"/>
+		</object>
+		<object id="13" VALUE="Location">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="34" width="26" x="923" y="203"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="30" width="25" x="952" y="209"/>
+			<attribute name="BoundingCharPts" compValue="3" char="c"/>
+			<bbox height="28" width="23" x="983" y="210"/>
+			<attribute name="BoundingCharPts" compValue="4" char="a"/>
+			<bbox height="29" width="24" x="1010" y="209"/>
+			<attribute name="BoundingCharPts" compValue="5" char="t"/>
+			<bbox height="34" width="11" x="1037" y="204"/>
+			<attribute name="BoundingCharPts" compValue="6" char="i"/>
+			<bbox height="21" width="6" x="1053" y="217"/>
+			<attribute name="BoundingCharPts" compValue="7" char="o"/>
+			<bbox height="30" width="26" x="1064" y="210"/>
+			<attribute name="BoundingCharPts" compValue="8" char="n"/>
+			<bbox height="28" width="25" x="1096" y="212"/>
+		</object>
+		<object id="14" VALUE="Kilometre">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="26" width="19" x="942" y="329"/>
+			<attribute name="BoundingCharPts" compValue="2" char="i"/>
+			<bbox height="22" width="4" x="964" y="334"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="28" width="4" x="972" y="328"/>
+			<attribute name="BoundingCharPts" compValue="4" char="o"/>
+			<bbox height="20" width="18" x="980" y="334"/>
+			<attribute name="BoundingCharPts" compValue="5" char="m"/>
+			<bbox height="21" width="28" x="1004" y="334"/>
+			<attribute name="BoundingCharPts" compValue="6" char="e"/>
+			<bbox height="21" width="19" x="1034" y="334"/>
+			<attribute name="BoundingCharPts" compValue="7" char="t"/>
+			<bbox height="23" width="7" x="1057" y="330"/>
+			<attribute name="BoundingCharPts" compValue="8" char="r"/>
+			<bbox height="18" width="11" x="1068" y="334"/>
+			<attribute name="BoundingCharPts" compValue="9" char="e"/>
+			<bbox height="20" width="17" x="1082" y="335"/>
+		</object>
+	</file>
+	<file name="028.tif">
+		<object id="1" VALUE="INDIA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="37" width="7" x="684" y="703"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="39" width="29" x="728" y="701"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="40" width="31" x="793" y="703"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="38" width="6" x="858" y="704"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="38" width="28" x="899" y="705"/>
+		</object>
+		<object id="2" VALUE="ARABIANSEA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="39" width="29" x="107" y="977"/>
+			<attribute name="BoundingCharPts" compValue="2" char="R"/>
+			<bbox height="36" width="31" x="142" y="978"/>
+			<attribute name="BoundingCharPts" compValue="3" char="A"/>
+			<bbox height="38" width="30" x="177" y="978"/>
+			<attribute name="BoundingCharPts" compValue="4" char="B"/>
+			<bbox height="39" width="30" x="210" y="978"/>
+			<attribute name="BoundingCharPts" compValue="5" char="I"/>
+			<bbox height="35" width="6" x="247" y="981"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="37" width="30" x="257" y="978"/>
+			<attribute name="BoundingCharPts" compValue="7" char="N"/>
+			<bbox height="39" width="32" x="292" y="978"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="40" width="28" x="343" y="978"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="39" width="27" x="376" y="978"/>
+			<attribute name="BoundingCharPts" compValue="10" char="A"/>
+			<bbox height="39" width="33" x="408" y="980"/>
+		</object>
+		<object id="3" VALUE="Srilanka">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="S"/>
+			<bbox height="37" width="27" x="819" y="1356"/>
+			<attribute name="BoundingCharPts" compValue="2" char="r"/>
+			<bbox height="27" width="13" x="853" y="1366"/>
+			<attribute name="BoundingCharPts" compValue="3" char="i"/>
+			<bbox height="27" width="5" x="870" y="1368"/>
+			<attribute name="BoundingCharPts" compValue="4" char="l"/>
+			<bbox height="34" width="6" x="880" y="1356"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="27" width="25" x="890" y="1367"/>
+			<attribute name="BoundingCharPts" compValue="6" char="n"/>
+			<bbox height="27" width="22" x="919" y="1368"/>
+			<attribute name="BoundingCharPts" compValue="7" char="k"/>
+			<bbox height="38" width="24" x="946" y="1357"/>
+			<attribute name="BoundingCharPts" compValue="8" char="a"/>
+			<bbox height="27" width="22" x="971" y="1368"/>
+		</object>
+		<object id="4" VALUE="BENGAL">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="39" width="27" x="1202" y="916"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="39" width="27" x="1234" y="917"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="39" width="29" x="1268" y="917"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="38" width="34" x="1302" y="917"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="36" width="32" x="1341" y="919"/>
+			<attribute name="BoundingCharPts" compValue="6" char="L"/>
+			<bbox height="39" width="24" x="1377" y="918"/>
+		</object>
+		<object id="5" VALUE="Pakistan">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="P"/>
+			<bbox height="42" width="29" x="307" y="425"/>
+			<attribute name="BoundingCharPts" compValue="2" char="a"/>
+			<bbox height="30" width="29" x="340" y="418"/>
+			<attribute name="BoundingCharPts" compValue="3" char="k"/>
+			<bbox height="36" width="37" x="355" y="397"/>
+			<attribute name="BoundingCharPts" compValue="4" char="i"/>
+			<bbox height="24" width="18" x="382" y="394"/>
+			<attribute name="BoundingCharPts" compValue="5" char="s"/>
+			<bbox height="31" width="26" x="395" y="382"/>
+			<attribute name="BoundingCharPts" compValue="6" char="t"/>
+			<bbox height="30" width="25" x="411" y="367"/>
+			<attribute name="BoundingCharPts" compValue="7" char="a"/>
+			<bbox height="29" width="30" x="427" y="358"/>
+			<attribute name="BoundingCharPts" compValue="8" char="n"/>
+			<bbox height="30" width="32" x="448" y="343"/>
+		</object>
+		<object id="6" VALUE="Burma">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="33" width="22" x="1380" y="757"/>
+			<attribute name="BoundingCharPts" compValue="2" char="u"/>
+			<bbox height="26" width="18" x="1407" y="767"/>
+			<attribute name="BoundingCharPts" compValue="3" char="rm"/>
+			<bbox height="25" width="44" x="1430" y="766"/>
+			<attribute name="BoundingCharPts" compValue="4" char="a"/>
+			<bbox height="25" width="20" x="1478" y="767"/>
+		</object>
+		<object id="7" VALUE="Myanmar">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="40" width="36" x="1343" y="703"/>
+			<attribute name="BoundingCharPts" compValue="2" char="y"/>
+			<bbox height="37" width="22" x="1382" y="716"/>
+			<attribute name="BoundingCharPts" compValue="3" char="a"/>
+			<bbox height="29" width="23" x="1408" y="715"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="27" width="24" x="1435" y="716"/>
+			<attribute name="BoundingCharPts" compValue="5" char="m"/>
+			<bbox height="27" width="34" x="1465" y="717"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="30" width="24" x="1506" y="716"/>
+			<attribute name="BoundingCharPts" compValue="7" char="r"/>
+			<bbox height="27" width="12" x="1535" y="717"/>
+		</object>
+		<object id="8" VALUE="Bangladesh">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="40" width="27" x="1186" y="645"/>
+			<attribute name="BoundingCharPts" compValue="2" char="a"/>
+			<bbox height="29" width="23" x="1219" y="657"/>
+			<attribute name="BoundingCharPts" compValue="3" char="n"/>
+			<bbox height="29" width="22" x="1247" y="657"/>
+			<attribute name="BoundingCharPts" compValue="4" char="g"/>
+			<bbox height="37" width="25" x="1274" y="657"/>
+			<attribute name="BoundingCharPts" compValue="5" char="l"/>
+			<bbox height="44" width="11" x="1298" y="645"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="29" width="24" x="1314" y="659"/>
+			<attribute name="BoundingCharPts" compValue="7" char="d"/>
+			<bbox height="36" width="24" x="1342" y="649"/>
+			<attribute name="BoundingCharPts" compValue="8" char="e"/>
+			<bbox height="30" width="23" x="1370" y="658"/>
+			<attribute name="BoundingCharPts" compValue="9" char="s"/>
+			<bbox height="27" width="19" x="1400" y="659"/>
+			<attribute name="BoundingCharPts" compValue="10" char="h"/>
+			<bbox height="37" width="21" x="1424" y="650"/>
+		</object>
+		<object id="9" VALUE="Bhutan">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="40" width="27" x="1207" y="495"/>
+			<attribute name="BoundingCharPts" compValue="2" char="h"/>
+			<bbox height="49" width="21" x="1241" y="485"/>
+			<attribute name="BoundingCharPts" compValue="3" char="u"/>
+			<bbox height="28" width="23" x="1268" y="507"/>
+			<attribute name="BoundingCharPts" compValue="4" char="t"/>
+			<bbox height="33" width="10" x="1295" y="501"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="28" width="25" x="1309" y="508"/>
+			<attribute name="BoundingCharPts" compValue="6" char="n"/>
+			<bbox height="30" width="23" x="1339" y="508"/>
+		</object>
+		<object id="10" VALUE="Nepal">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="N"/>
+			<bbox height="45" width="44" x="891" y="428"/>
+			<attribute name="BoundingCharPts" compValue="2" char="e"/>
+			<bbox height="29" width="26" x="929" y="454"/>
+			<attribute name="BoundingCharPts" compValue="3" char="p"/>
+			<bbox height="39" width="31" x="951" y="461"/>
+			<attribute name="BoundingCharPts" compValue="4" char="a"/>
+			<bbox height="32" width="24" x="982" y="475"/>
+			<attribute name="BoundingCharPts" compValue="5" char="l"/>
+			<bbox height="34" width="15" x="1007" y="474"/>
+		</object>
+		<object id="11" VALUE="China">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="39" width="32" x="1001" y="389"/>
+			<attribute name="BoundingCharPts" compValue="2" char="h"/>
+			<bbox height="39" width="24" x="1051" y="390"/>
+			<attribute name="BoundingCharPts" compValue="3" char="i"/>
+			<bbox height="31" width="8" x="1093" y="390"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="30" width="24" x="1119" y="400"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="31" width="25" x="1162" y="402"/>
+		</object>
+		<object id="12" VALUE="Kilometre">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="33" width="25" x="1076" y="299"/>
+			<attribute name="BoundingCharPts" compValue="2" char="i"/>
+			<bbox height="22" width="4" x="1106" y="308"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="32" width="5" x="1116" y="300"/>
+			<attribute name="BoundingCharPts" compValue="4" char="o"/>
+			<bbox height="27" width="21" x="1124" y="306"/>
+			<attribute name="BoundingCharPts" compValue="5" char="m"/>
+			<bbox height="25" width="33" x="1150" y="308"/>
+			<attribute name="BoundingCharPts" compValue="6" char="e"/>
+			<bbox height="25" width="18" x="1186" y="309"/>
+			<attribute name="BoundingCharPts" compValue="7" char="t"/>
+			<bbox height="32" width="10" x="1210" y="302"/>
+			<attribute name="BoundingCharPts" compValue="8" char="r"/>
+			<bbox height="24" width="10" x="1225" y="308"/>
+			<attribute name="BoundingCharPts" compValue="9" char="e"/>
+			<bbox height="25" width="19" x="1237" y="308"/>
+		</object>
+		<object id="13" VALUE="COUNTRIES">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="37" width="18" x="1080" y="148"/>
+			<attribute name="BoundingCharPts" compValue="2" char="O"/>
+			<bbox height="39" width="22" x="1104" y="147"/>
+			<attribute name="BoundingCharPts" compValue="3" char="U"/>
+			<bbox height="36" width="21" x="1130" y="150"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="37" width="20" x="1155" y="150"/>
+			<attribute name="BoundingCharPts" compValue="5" char="T"/>
+			<bbox height="34" width="21" x="1179" y="149"/>
+			<attribute name="BoundingCharPts" compValue="6" char="R"/>
+			<bbox height="38" width="20" x="1202" y="149"/>
+			<attribute name="BoundingCharPts" compValue="7" char="I"/>
+			<bbox height="35" width="6" x="1228" y="150"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="38" width="16" x="1240" y="150"/>
+			<attribute name="BoundingCharPts" compValue="9" char="S"/>
+			<bbox height="39" width="18" x="1261" y="150"/>
+		</object>
+		<object id="14" VALUE="NEIGHBOURING">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="N"/>
+			<bbox height="37" width="23" x="1143" y="89"/>
+			<attribute name="BoundingCharPts" compValue="2" char="E"/>
+			<bbox height="37" width="15" x="1170" y="89"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="33" width="8" x="1190" y="92"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="36" width="21" x="1201" y="90"/>
+			<attribute name="BoundingCharPts" compValue="5" char="H"/>
+			<bbox height="36" width="20" x="1229" y="91"/>
+			<attribute name="BoundingCharPts" compValue="6" char="B"/>
+			<bbox height="38" width="18" x="1254" y="89"/>
+			<attribute name="BoundingCharPts" compValue="7" char="O"/>
+			<bbox height="39" width="21" x="1277" y="89"/>
+			<attribute name="BoundingCharPts" compValue="8" char="U"/>
+			<bbox height="39" width="21" x="1302" y="90"/>
+			<attribute name="BoundingCharPts" compValue="9" char="R"/>
+			<bbox height="38" width="21" x="1327" y="91"/>
+			<attribute name="BoundingCharPts" compValue="10" char="I"/>
+			<bbox height="35" width="7" x="1353" y="92"/>
+			<attribute name="BoundingCharPts" compValue="11" char="N"/>
+			<bbox height="38" width="20" x="1365" y="92"/>
+			<attribute name="BoundingCharPts" compValue="12" char="G"/>
+			<bbox height="42" width="19" x="1391" y="90"/>
+		</object>
+		<object id="15" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="39" width="28" x="1000" y="913"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="37" width="30" x="1033" y="914"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="37" width="29" x="1067" y="914"/>
+		</object>
+		<object id="16" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="40" width="37" x="1050" y="1386"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="39" width="30" x="1105" y="1387"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="41" width="29" x="1155" y="1388"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="36" width="30" x="1202" y="1390"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="40" width="30" x="1253" y="1389"/>
+		</object>
+	</file>
+	<file name="029.tif">
+		<object id="1" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="43" width="26" x="1766" y="1519"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="42" width="32" x="1793" y="1519"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="41" width="28" x="1827" y="1517"/>
+		</object>
+		<object id="2" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="47" width="31" x="745" y="2745"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="46" width="26" x="793" y="2745"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="44" width="22" x="840" y="2745"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="48" width="32" x="879" y="2741"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="45" width="26" x="931" y="2744"/>
+		</object>
+	</file>
+	<file name="030.tif">
+		<object id="1" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="52" width="49" x="1452" y="2593"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="57" width="46" x="1544" y="2591"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="54" width="37" x="1635" y="2591"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="52" width="45" x="1716" y="2593"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="52" width="45" x="1802" y="2593"/>
+		</object>
+		<object id="2" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="46" width="34" x="1719" y="1613"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="44" width="35" x="1758" y="1613"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="47" width="39" x="1798" y="1612"/>
+		</object>
+		<object id="3" VALUE="Lakshadweep">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="36" width="25" x="308" y="2484"/>
+			<attribute name="BoundingCharPts" compValue="2" char="a"/>
+			<bbox height="28" width="23" x="337" y="2491"/>
+			<attribute name="BoundingCharPts" compValue="3" char="k"/>
+			<bbox height="31" width="21" x="364" y="2485"/>
+			<attribute name="BoundingCharPts" compValue="4" char="s"/>
+			<bbox height="29" width="18" x="389" y="2490"/>
+			<attribute name="BoundingCharPts" compValue="5" char="h"/>
+			<bbox height="33" width="22" x="412" y="2484"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="27" width="22" x="440" y="2492"/>
+			<attribute name="BoundingCharPts" compValue="7" char="d"/>
+			<bbox height="33" width="24" x="463" y="2484"/>
+			<attribute name="BoundingCharPts" compValue="8" char="w"/>
+			<bbox height="26" width="33" x="492" y="2491"/>
+			<attribute name="BoundingCharPts" compValue="9" char="e"/>
+			<bbox height="29" width="23" x="529" y="2490"/>
+			<attribute name="BoundingCharPts" compValue="10" char="e"/>
+			<bbox height="27" width="21" x="556" y="2490"/>
+			<attribute name="BoundingCharPts" compValue="11" char="p"/>
+			<bbox height="33" width="25" x="581" y="2491"/>
+		</object>
+		<object id="4" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="36" width="28" x="1898" y="1141"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="36" width="31" x="1931" y="1141"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="37" width="30" x="1965" y="1138"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="40" width="34" x="2000" y="1138"/>
+			<attribute name="BoundingCharPts" compValue="5" char="L"/>
+			<bbox height="39" width="27" x="2039" y="1136"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="36" width="37" x="2067" y="1136"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="40" width="34" x="1929" y="1199"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="40" width="31" x="1965" y="1196"/>
+			<attribute name="BoundingCharPts" compValue="9" char="S"/>
+			<bbox height="39" width="28" x="2001" y="1196"/>
+			<attribute name="BoundingCharPts" compValue="10" char="H"/>
+			<bbox height="36" width="36" x="2031" y="1195"/>
+		</object>
+	</file>
+	<file name="037.tif">
+		<object id="1" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="57" width="48" x="1357" y="2809"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="56" width="41" x="1408" y="2810"/>
+			<attribute name="BoundingBox" compValue="3" char="EA"/>
+			<bbox height="57" width="81" x="1459" y="2812"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="54" width="42" x="1545" y="2816"/>
+		</object>
+		<object id="2" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="57" width="40" x="1642" y="1804"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="54" width="45" x="1687" y="1807"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="55" width="47" x="1733" y="1806"/>
+		</object>
+		<object id="3" VALUE="Chennai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="48" width="37" x="1138" y="2295"/>
+			<attribute name="BoundingCharPts" compValue="2" char="h"/>
+			<bbox height="48" width="30" x="1178" y="2298"/>
+			<attribute name="BoundingCharPts" compValue="3" char="e"/>
+			<bbox height="37" width="30" x="1215" y="2311"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="36" width="31" x="1251" y="2311"/>
+			<attribute name="BoundingCharPts" compValue="5" char="n"/>
+			<bbox height="38" width="32" x="1287" y="2312"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="36" width="30" x="1323" y="2314"/>
+			<attribute name="BoundingCharPts" compValue="7" char="i"/>
+			<bbox height="49" width="9" x="1358" y="2302"/>
+		</object>
+		<object id="4" VALUE="Mumbai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="48" width="44" x="191" y="1755"/>
+			<attribute name="BoundingCharPts" compValue="2" char="u"/>
+			<bbox height="33" width="31" x="238" y="1770"/>
+			<attribute name="BoundingCharPts" compValue="3" char="m"/>
+			<bbox height="35" width="45" x="276" y="1770"/>
+			<attribute name="BoundingCharPts" compValue="4" char="b"/>
+			<bbox height="44" width="28" x="329" y="1759"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="35" width="29" x="363" y="1770"/>
+			<attribute name="BoundingCharPts" compValue="6" char="i"/>
+			<bbox height="36" width="6" x="398" y="1768"/>
+		</object>
+		<object id="5" VALUE="Kolkata">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="40" width="32" x="1867" y="1428"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="27" width="27" x="1903" y="1441"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="37" width="9" x="1933" y="1431"/>
+			<attribute name="BoundingCharPts" compValue="4" char="k"/>
+			<bbox height="38" width="23" x="1947" y="1431"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="28" width="24" x="1973" y="1442"/>
+			<attribute name="BoundingCharPts" compValue="6" char="t"/>
+			<bbox height="36" width="12" x="2003" y="1434"/>
+			<attribute name="BoundingCharPts" compValue="7" char="a"/>
+			<bbox height="29" width="21" x="2020" y="1443"/>
+		</object>
+		<object id="6" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="40" width="30" x="1873" y="1236"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="36" width="32" x="1909" y="1240"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="38" width="33" x="1945" y="1239"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="41" width="33" x="1985" y="1239"/>
+			<attribute name="BoundingBox" compValue="5" char="LA"/>
+			<bbox height="38" width="60" x="2027" y="1240"/>
+			<attribute name="BoundingCharPts" compValue="6" char="D"/>
+			<bbox height="40" width="32" x="1895" y="1298"/>
+			<attribute name="BoundingCharPts" compValue="7" char="E"/>
+			<bbox height="41" width="27" x="1935" y="1298"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="42" width="31" x="1969" y="1296"/>
+			<attribute name="BoundingCharPts" compValue="9" char="H"/>
+			<bbox height="39" width="34" x="2006" y="1300"/>
+		</object>
+	</file>
+	<file name="038.tif">
+		<object id="1" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="31" width="23" x="1884" y="1236"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="26" width="22" x="1915" y="1236"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="34" width="26" x="1944" y="1237"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="30" width="29" x="1975" y="1237"/>
+			<attribute name="BoundingBox" compValue="5" char="LA"/>
+			<bbox height="31" width="49" x="2011" y="1237"/>
+			<attribute name="BoundingCharPts" compValue="6" char="D"/>
+			<bbox height="32" width="25" x="1899" y="1301"/>
+			<attribute name="BoundingCharPts" compValue="7" char="E"/>
+			<bbox height="32" width="25" x="1933" y="1300"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="33" width="23" x="1963" y="1300"/>
+			<attribute name="BoundingCharPts" compValue="9" char="H"/>
+			<bbox height="28" width="26" x="1993" y="1303"/>
+		</object>
+		<object id="2" VALUE="Kolkata">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="39" width="30" x="1844" y="1413"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="26" width="23" x="1880" y="1423"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="35" width="6" x="1910" y="1414"/>
+			<attribute name="BoundingCharPts" compValue="4" char="k"/>
+			<bbox height="32" width="22" x="1923" y="1420"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="26" width="23" x="1951" y="1427"/>
+			<attribute name="BoundingCharPts" compValue="6" char="t"/>
+			<bbox height="32" width="10" x="1980" y="1421"/>
+			<attribute name="BoundingCharPts" compValue="7" char="a"/>
+			<bbox height="26" width="23" x="1996" y="1428"/>
+		</object>
+		<object id="3" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="50" width="38" x="1711" y="1691"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="51" width="41" x="1755" y="1693"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="54" width="44" x="1801" y="1692"/>
+		</object>
+		<object id="4" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="52" width="49" x="1360" y="2746"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="53" width="41" x="1415" y="2748"/>
+			<attribute name="BoundingBox" compValue="3" char="EA"/>
+			<bbox height="54" width="83" x="1463" y="2749"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="52" width="40" x="1555" y="2753"/>
+		</object>
+		<object id="5" VALUE="Chennai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="56" width="41" x="1136" y="2220"/>
+			<attribute name="BoundingCharPts" compValue="2" char="h"/>
+			<bbox height="54" width="32" x="1186" y="2223"/>
+			<attribute name="BoundingCharPts" compValue="3" char="e"/>
+			<bbox height="39" width="32" x="1226" y="2238"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="38" width="32" x="1268" y="2238"/>
+			<attribute name="BoundingCharPts" compValue="5" char="n"/>
+			<bbox height="38" width="35" x="1309" y="2240"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="40" width="33" x="1353" y="2240"/>
+			<attribute name="BoundingCharPts" compValue="7" char="i"/>
+			<bbox height="54" width="8" x="1392" y="2224"/>
+		</object>
+		<object id="6" VALUE="Mumbai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="51" width="47" x="176" y="1720"/>
+			<attribute name="BoundingCharPts" compValue="2" char="u"/>
+			<bbox height="39" width="29" x="231" y="1734"/>
+			<attribute name="BoundingCharPts" compValue="3" char="m"/>
+			<bbox height="40" width="49" x="271" y="1734"/>
+			<attribute name="BoundingCharPts" compValue="4" char="b"/>
+			<bbox height="53" width="32" x="329" y="1722"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="38" width="32" x="368" y="1736"/>
+			<attribute name="BoundingCharPts" compValue="6" char="i"/>
+			<bbox height="38" width="8" x="406" y="1736"/>
+		</object>
+	</file>
+	<file name="039.tif">
+		<object id="1" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="37" width="21" x="1219" y="787"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="37" width="26" x="1243" y="787"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="35" width="23" x="1273" y="787"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="39" width="22" x="1301" y="786"/>
+			<attribute name="BoundingBox" compValue="5" char="LA"/>
+			<bbox height="37" width="44" x="1330" y="788"/>
+			<attribute name="BoundingCharPts" compValue="6" char=""/>
+			<bbox height="37" width="25" x="1236" y="836"/>
+			<attribute name="BoundingCharPts" compValue="7" char="E"/>
+			<bbox height="33" width="19" x="1265" y="837"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="39" width="22" x="1289" y="836"/>
+			<attribute name="BoundingCharPts" compValue="9" char="H"/>
+			<bbox height="39" width="20" x="1313" y="836"/>
+		</object>
+		<object id="2" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="43" width="23" x="1110" y="1184"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="41" width="27" x="1137" y="1185"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="41" width="29" x="1166" y="1184"/>
+		</object>
+		<object id="3" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="42" width="29" x="1003" y="1685"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="42" width="24" x="1050" y="1685"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="42" width="21" x="1093" y="1685"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="41" width="29" x="1131" y="1686"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="41" width="27" x="1175" y="1685"/>
+		</object>
+	</file>
+	<file name="040.tif">
+		<object id="1" VALUE="AFGANISTAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="49" width="43" x="255" y="296"/>
+			<attribute name="BoundingCharPts" compValue="2" char="F"/>
+			<bbox height="57" width="34" x="281" y="268"/>
+			<attribute name="BoundingCharPts" compValue="3" char="G"/>
+			<bbox height="49" width="48" x="315" y="251"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="51" width="39" x="363" y="233"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="60" width="52" x="384" y="205"/>
+			<attribute name="BoundingCharPts" compValue="6" char="I"/>
+			<bbox height="48" width="31" x="423" y="194"/>
+			<attribute name="BoundingCharPts" compValue="7" char="S"/>
+			<bbox height="49" width="42" x="443" y="179"/>
+			<attribute name="BoundingCharPts" compValue="8" char="T"/>
+			<bbox height="54" width="46" x="468" y="155"/>
+			<attribute name="BoundingCharPts" compValue="9" char="A"/>
+			<bbox height="45" width="42" x="518" y="144"/>
+			<attribute name="BoundingCharPts" compValue="10" char="N"/>
+			<bbox height="51" width="48" x="543" y="117"/>
+		</object>
+		<object id="2" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="49" width="35" x="1980" y="1324"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="48" width="36" x="2017" y="1331"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="48" width="39" x="2058" y="1333"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="50" width="39" x="2100" y="1336"/>
+			<attribute name="BoundingCharPts" compValue="5" char="LA"/>
+			<bbox height="51" width="64" x="2145" y="1341"/>
+			<attribute name="BoundingCharPts" compValue="6" char="D"/>
+			<bbox height="47" width="36" x="2012" y="1390"/>
+			<attribute name="BoundingCharPts" compValue="7" char="E"/>
+			<bbox height="48" width="36" x="2054" y="1395"/>
+			<attribute name="BoundingCharPts" compValue="8" char="S"/>
+			<bbox height="48" width="36" x="2088" y="1397"/>
+			<attribute name="BoundingCharPts" compValue="9" char="H"/>
+			<bbox height="48" width="40" x="2126" y="1402"/>
+		</object>
+		<object id="3" VALUE="Kolkata">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="39" width="33" x="1974" y="1506"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="28" width="24" x="2010" y="1519"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="36" width="8" x="2039" y="1512"/>
+			<attribute name="BoundingCharPts" compValue="4" char="k"/>
+			<bbox height="39" width="24" x="2051" y="1512"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="28" width="24" x="2075" y="1524"/>
+			<attribute name="BoundingCharPts" compValue="6" char="t"/>
+			<bbox height="34" width="10" x="2105" y="1520"/>
+			<attribute name="BoundingCharPts" compValue="7" char="a"/>
+			<bbox height="28" width="26" x="2118" y="1527"/>
+		</object>
+		<object id="4" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="48" width="33" x="1646" y="1850"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="46" width="36" x="1703" y="1858"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="48" width="38" x="1761" y="1860"/>
+		</object>
+		<object id="5" VALUE="Mumbai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="62" width="48" x="126" y="1648"/>
+			<attribute name="BoundingCharPts" compValue="2" char="u"/>
+			<bbox height="42" width="27" x="181" y="1667"/>
+			<attribute name="BoundingCharPts" compValue="3" char="m"/>
+			<bbox height="41" width="45" x="216" y="1672"/>
+			<attribute name="BoundingCharPts" compValue="4" char="b"/>
+			<bbox height="56" width="29" x="268" y="1660"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="42" width="29" x="303" y="1676"/>
+			<attribute name="BoundingCharPts" compValue="6" char="i"/>
+			<bbox height="54" width="9" x="337" y="1664"/>
+		</object>
+		<object id="6" VALUE="Chennai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="46" width="38" x="1150" y="2256"/>
+			<attribute name="BoundingCharPts" compValue="2" char="h"/>
+			<bbox height="46" width="38" x="1150" y="2256"/>
+			<attribute name="BoundingCharPts" compValue="3" char="e"/>
+			<bbox height="43" width="25" x="1192" y="2261"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="33" width="29" x="1225" y="2274"/>
+			<attribute name="BoundingCharPts" compValue="5" char="n"/>
+			<bbox height="31" width="29" x="1260" y="2278"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="32" width="30" x="1294" y="2282"/>
+			<attribute name="BoundingCharPts" compValue="7" char="i"/>
+			<bbox height="33" width="26" x="1330" y="2284"/> 
+		</object>
+		<object id="7" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="54" width="45" x="1342" y="2746"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="54" width="42" x="1390" y="2750"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="56" width="37" x="1438" y="2753"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="54" width="40" x="1477" y="2759"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="54" width="44" x="1523" y="2764"/>
+		</object>
+	</file>
+	<file name="042.tif">
+		<object id="1" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="55" width="32" x="1894" y="1064"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="55" width="38" x="1932" y="1065"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="59" width="40" x="1975" y="1060"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="60" width="36" x="2022" y="1060"/>
+			<attribute name="BoundingCharPts" compValue="5" char="L"/>
+			<bbox height="55" width="31" x="2069" y="1067"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="59" width="39" x="2102" y="1068"/>
+			<attribute name="BoundingCharPts" compValue="7" char="D"/>
+			<bbox height="54" width="36" x="1891" y="1149"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="57" width="27" x="1937" y="1148"/>
+			<attribute name="BoundingCharPts" compValue="9" char="S"/>
+			<bbox height="57" width="33" x="1974" y="1146"/>
+			<attribute name="BoundingCharPts" compValue="10" char="H"/>
+			<bbox height="55" width="36" x="2015" y="1149"/>
+		</object>
+		<object id="2" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="54" width="42" x="1817" y="1504"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="54" width="48" x="1863" y="1505"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="55" width="45" x="1914" y="1504"/>
+		</object>
+		<object id="3" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="63" width="58" x="1448" y="2649"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="67" width="52" x="1538" y="2650"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="63" width="46" x="1624" y="2652"/>
+			<attribute name="BoundingCharPts" compValue="4" char="A"/>
+			<bbox height="61" width="54" x="1696" y="2655"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="63" width="52" x="1777" y="2655"/>
+		</object>
+	</file>
+	<file name="043.tif">
+		<object id="1" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="46" width="33" x="1893" y="1209"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="39" width="31" x="1930" y="1214"/>
+			<attribute name="BoundingCharPts" compValue="3" char="N"/>
+			<bbox height="42" width="34" x="1967" y="1212"/>
+			<attribute name="BoundingCharPts" compValue="4" char="G"/>
+			<bbox height="45" width="37" x="2003" y="1212"/>
+			<attribute name="BoundingBox" compValue="5" char="LA"/>
+			<bbox height="46" width="63" x="2045" y="1214"/>
+			<attribute name="BoundingBox" compValue="6" char="DE"/>
+			<bbox height="48" width="69" x="2111" y="1214"/>
+			<attribute name="BoundingCharPts" compValue="7" char="S"/>
+			<bbox height="49" width="31" x="2181" y="1215"/>
+			<attribute name="BoundingCharPts" compValue="8" char="H"/>
+			<bbox height="45" width="40" x="2213" y="1218"/>
+		</object>
+		<object id="2" VALUE="Kolkata">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="48" width="42" x="1732" y="1352"/>
+			<attribute name="BoundingCharPts" compValue="2" char="o"/>
+			<bbox height="36" width="34" x="1775" y="1362"/>
+			<attribute name="BoundingCharPts" compValue="3" char="l"/>
+			<bbox height="47" width="11" x="1811" y="1349"/>
+			<attribute name="BoundingCharPts" compValue="4" char="k"/>
+			<bbox height="44" width="30" x="1827" y="1351"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="37" width="31" x="1860" y="1358"/>
+			<attribute name="BoundingCharPts" compValue="6" char="t"/>
+			<bbox height="41" width="18" x="1893" y="1349"/>
+			<attribute name="BoundingCharPts" compValue="7" char="a"/>
+			<bbox height="38" width="33" x="1915" y="1352"/>
+		</object>
+		<object id="3" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="63" width="51" x="1468" y="1948"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="62" width="59" x="1524" y="1952"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="62" width="57" x="1588" y="1950"/>
+		</object>
+		<object id="4" VALUE="Chennai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="52" width="45" x="1191" y="2358"/>
+			<attribute name="BoundingCharPts" compValue="2" char="h"/>
+			<bbox height="51" width="30" x="1239" y="2359"/>
+			<attribute name="BoundingCharPts" compValue="3" char="e"/>
+			<bbox height="35" width="30" x="1274" y="2376"/>
+			<attribute name="BoundingCharPts" compValue="4" char="n"/>
+			<bbox height="34" width="26" x="1310" y="2377"/>
+			<attribute name="BoundingCharPts" compValue="5" char="n"/>
+			<bbox height="34" width="29" x="1345" y="2378"/>
+			<attribute name="BoundingCharPts" compValue="6" char="a"/>
+			<bbox height="30" width="27" x="1379" y="2376"/>
+			<attribute name="BoundingCharPts" compValue="7" char="i"/>
+			<bbox height="50" width="10" x="1416" y="2361"/>
+		</object>
+		<object id="5" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="65" width="61" x="1590" y="2887"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="65" width="55" x="1660" y="2892"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="63" width="50" x="1719" y="2893"/>
+			<attribute name="BoundingBox" compValue="4" char="AN"/>
+			<bbox height="63" width="123" x="1773" y="2898"/>
+		</object>
+		<object id="6" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="LA"/>
+			<bbox height="52" width="76" x="155" y="2420"/>
+			<attribute name="BoundingCharPts" compValue="2" char="K"/>
+			<bbox height="43" width="36" x="235" y="2424"/>
+			<attribute name="BoundingCharPts" compValue="3" char="S"/>
+			<bbox height="40" width="31" x="274" y="2426"/>
+			<attribute name="BoundingBox" compValue="4" char="HA"/>
+			<bbox height="43" width="79" x="311" y="2424"/>
+			<attribute name="BoundingCharPts" compValue="5" char="D"/>
+			<bbox height="42" width="39" x="395" y="2426"/>
+			<attribute name="BoundingBox" compValue="6" char="WE"/>
+			<bbox height="45" width="90" x="439" y="2427"/>
+			<attribute name="BoundingBox" compValue="7" char="EP"/>
+			<bbox height="42" width="64" x="535" y="2429"/>
+		</object>
+		<object id="7" VALUE="Bangalooru">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="53" width="39" x="523" y="2331"/>
+			<attribute name="BoundingCharPts" compValue="2" char="a"/>
+			<bbox height="36" width="30" x="567" y="2350"/>
+			<attribute name="BoundingCharPts" compValue="3" char="n"/>
+			<bbox height="37" width="30" x="599" y="2349"/>
+			<attribute name="BoundingCharPts" compValue="4" char="g"/>
+			<bbox height="52" width="31" x="635" y="2349"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="37" width="31" x="670" y="2349"/>
+			<attribute name="BoundingCharPts" compValue="6" char="l"/>
+			<bbox height="53" width="12" x="702" y="2333"/>
+			<attribute name="BoundingCharPts" compValue="7" char="o"/>
+			<bbox height="39" width="33" x="720" y="2349"/>
+			<attribute name="BoundingCharPts" compValue="8" char="o"/>
+			<bbox height="36" width="31" x="756" y="2351"/>
+			<attribute name="BoundingBox" compValue="9" char="ru"/>
+			<bbox height="36" width="54" x="790" y="2352"/>
+		</object>
+		<object id="8" VALUE="Mumbai">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="M"/>
+			<bbox height="62" width="59" x="166" y="1721"/>
+			<attribute name="BoundingCharPts" compValue="2" char="u"/>
+			<bbox height="35" width="33" x="228" y="1746"/>
+			<attribute name="BoundingCharPts" compValue="3" char="m"/>
+			<bbox height="35" width="51" x="267" y="1748"/>
+			<attribute name="BoundingCharPts" compValue="4" char="b"/>
+			<bbox height="48" width="29" x="325" y="1737"/>
+			<attribute name="BoundingCharPts" compValue="5" char="a"/>
+			<bbox height="33" width="29" x="358" y="1753"/>
+			<attribute name="BoundingCharPts" compValue="6" char="i"/>
+			<bbox height="50" width="15" x="390" y="1739"/>
+		</object>
+	</file>
+	<file name="044.tif">
+		<object id="1" VALUE="BANGLADESH">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="BA"/>
+			<bbox height="45" width="66" x="1861" y="1206"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="46" width="34" x="1931" y="1203"/>
+			<attribute name="BoundingCharPts" compValue="3" char="G"/>
+			<bbox height="46" width="40" x="1967" y="1198"/>
+			<attribute name="BoundingBox" compValue="4" char="LA"/>
+			<bbox height="45" width="64" x="2008" y="1198"/>
+			<attribute name="BoundingCharPts" compValue="5" char="D"/>
+			<bbox height="42" width="37" x="2074" y="1197"/>
+			<attribute name="BoundingCharPts" compValue="6" char="E"/>
+			<bbox height="48" width="30" x="2113" y="1191"/>
+			<attribute name="BoundingCharPts" compValue="7" char="S"/>
+			<bbox height="43" width="30" x="2147" y="1191"/>
+			<attribute name="BoundingCharPts" compValue="8" char="H"/>
+			<bbox height="45" width="33" x="2182" y="1191"/>
+		</object>
+		<object id="2" VALUE="KOLKATA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="K"/>
+			<bbox height="40" width="31" x="1723" y="1313"/>
+			<attribute name="BoundingCharPts" compValue="2" char="O"/>
+			<bbox height="43" width="39" x="1757" y="1313"/>
+			<attribute name="BoundingCharPts" compValue="3" char="L"/>
+			<bbox height="39" width="26" x="1804" y="1315"/>
+			<attribute name="BoundingCharPts" compValue="4" char="K"/>
+			<bbox height="42" width="18" x="1656" y="1361"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="42" width="18" x="1656" y="1361"/>
+			<attribute name="BoundingCharPts" compValue="6" char="T"/>
+			<bbox height="42" width="18" x="1656" y="1361"/>
+			<attribute name="BoundingCharPts" compValue="7" char="A"/>
+			<bbox height="42" width="18" x="1656" y="1361"/>
+		</object>
+		<object id="3" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="64" width="39" x="2110" y="1656"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="60" width="43" x="2156" y="1656"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="63" width="40" x="2200" y="1653"/>
+		</object>
+		<object id="4" VALUE="CHENNAI">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="C"/>
+			<bbox height="52" width="40" x="1211" y="2288"/>
+			<attribute name="BoundingCharPts" compValue="2" char="H"/>
+			<bbox height="46" width="42" x="1259" y="2291"/>
+			<attribute name="BoundingCharPts" compValue="4" char="E"/>
+			<bbox height="51" width="39" x="1310" y="2287"/>
+			<attribute name="BoundingCharPts" compValue="4" char="N"/>
+			<bbox height="48" width="40" x="1355" y="2287"/>
+			<attribute name="BoundingCharPts" compValue="5" char="N"/>
+			<bbox height="48" width="40" x="1355" y="2287"/>
+			<attribute name="BoundingCharPts" compValue="6" char="A"/>
+			<bbox height="46" width="45" x="1403" y="2288"/>
+			<attribute name="BoundingCharPts" compValue="7" char="I"/>
+			<bbox height="45" width="43" x="1454" y="2287"/>
+		</object>
+		<object id="5" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="58" width="51" x="1724" y="2784"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="58" width="49" x="1784" y="2782"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="58" width="45" x="1838" y="2779"/>
+			<attribute name="BoundingBox" compValue="4" char="AN"/>
+			<bbox height="57" width="104" x="1892" y="2777"/>
+		</object>
+		<object id="6" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="L"/>
+			<bbox height="49" width="40" x="103" y="2344"/>
+			<attribute name="BoundingBox" compValue="2" char="AK"/>
+			<bbox height="51" width="93" x="148" y="2339"/>
+			<attribute name="BoundingCharPts" compValue="3" char="S"/>
+			<bbox height="51" width="93" x="148" y="2339"/>
+			<attribute name="BoundingCharPts" compValue="4" char="S"/>
+			<bbox height="51" width="36" x="242" y="2339"/>
+			<attribute name="BoundingBox" compValue="5" char="HAD"/>
+			<bbox height="54" width="142" x="286" y="2335"/>
+			<attribute name="BoundingCharPts" compValue="7" char="W"/>
+			<bbox height="46" width="64" x="432" y="2332"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="60" width="42" x="502" y="2323"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="60" width="42" x="502" y="2323"/>
+			<attribute name="BoundingCharPts" compValue="10" char="P"/>
+			<bbox height="51" width="36" x="592" y="2326"/>
+		</object>
+		<object id="7" VALUE="MUMBAI">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="MUM"/>
+			<bbox height="39" width="110" x="525" y="1776"/>
+			<attribute name="BoundingBox" compValue="2" char="BA"/>
+			<bbox height="36" width="58" x="637" y="1773"/>
+			<attribute name="BoundingCharPts" compValue="3" char="I"/>
+			<bbox height="36" width="10" x="698" y="1772"/>
+		</object>
+	</file>
+	<file name="045.tif">
+		<object id="1" VALUE="BAY">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="B"/>
+			<bbox height="58" width="37" x="1845" y="1981"/>
+			<attribute name="BoundingCharPts" compValue="2" char="A"/>
+			<bbox height="54" width="51" x="1887" y="1984"/>
+			<attribute name="BoundingCharPts" compValue="3" char="Y"/>
+			<bbox height="57" width="54" x="1941" y="1984"/>
+		</object>
+		<object id="2" VALUE="OCEAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="O"/>
+			<bbox height="58" width="57" x="1411" y="2699"/>
+			<attribute name="BoundingCharPts" compValue="2" char="C"/>
+			<bbox height="57" width="49" x="1472" y="2702"/>
+			<attribute name="BoundingCharPts" compValue="3" char="E"/>
+			<bbox height="58" width="46" x="1525" y="2702"/>
+			<attribute name="BoundingBox" compValue="4" char="AN"/>
+			<bbox height="52" width="105" x="1573" y="2708"/>
+		</object>
+		<object id="3" VALUE="LAKSHADWEEP">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="LA"/>
+			<bbox height="60" width="88" x="141" y="2472"/>
+			<attribute name="BoundingCharPts" compValue="2" char="K"/>
+			<bbox height="58" width="45" x="231" y="2475"/>
+			<attribute name="BoundingCharPts" compValue="3" char="S"/>
+			<bbox height="54" width="43" x="279" y="2478"/>
+			<attribute name="BoundingCharPts" compValue="4" char="H"/>
+			<bbox height="54" width="45" x="329" y="2478"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="55" width="46" x="378" y="2480"/>
+			<attribute name="BoundingCharPts" compValue="6" char="D"/>
+			<bbox height="58" width="51" x="425" y="2477"/>
+			<attribute name="BoundingCharPts" compValue="7" char="W"/>
+			<bbox height="57" width="69" x="477" y="2478"/>
+			<attribute name="BoundingCharPts" compValue="8" char="E"/>
+			<bbox height="57" width="42" x="552" y="2480"/>
+			<attribute name="BoundingCharPts" compValue="9" char="E"/>
+			<bbox height="55" width="43" x="600" y="2481"/>
+			<attribute name="BoundingCharPts" compValue="10" char="P"/>
+			<bbox height="52" width="42" x="647" y="2481"/>
+		</object>
+	</file>
+	<file name="file_1_text.tif">
+		<object id="1" VALUE="INDIAN">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="I"/>
+			<bbox height="6" width="54" x="225" y="661"/>
+			<attribute name="BoundingCharPts" compValue="2" char="N"/>
+			<bbox height="74" width="80" x="239" y="571"/>
+			<attribute name="BoundingCharPts" compValue="3" char="D"/>
+			<bbox height="70" width="82" x="271" y="528"/>
+			<attribute name="BoundingCharPts" compValue="4" char="I"/>
+			<bbox height="56" width="48" x="317" y="504"/>
+			<attribute name="BoundingCharPts" compValue="5" char="A"/>
+			<bbox height="74" width="66" x="341" y="474"/>
+			<attribute name="BoundingCharPts" compValue="6" char="N"/>
+			<bbox height="76" width="78" x="365" y="424"/>
+		</object>
+		<object id="2" VALUE="Ashburton">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="A"/>
+			<bbox height="51" width="42" x="471" y="952"/>
+			<attribute name="BoundingCharPts" compValue="2" char="s"/>
+			<bbox height="42" width="31" x="514" y="961"/>
+			<attribute name="BoundingCharPts" compValue="3" char="h"/>
+			<bbox height="53" width="36" x="543" y="949"/>
+			<attribute name="BoundingCharPts" compValue="4" char="b"/>
+			<bbox height="50" width="33" x="579" y="948"/>
+			<attribute name="BoundingCharPts" compValue="5" char="u"/>
+			<bbox height="39" width="33" x="616" y="959"/>
+			<attribute name="BoundingCharPts" compValue="6" char="r"/>
+			<bbox height="39" width="13" x="651" y="955"/>
+			<attribute name="BoundingCharPts" compValue="7" char="t"/>
+			<bbox height="49" width="26" x="665" y="945"/>
+			<attribute name="BoundingCharPts" compValue="8" char="o"/>
+			<bbox height="36" width="32" x="690" y="955"/>
+			<attribute name="BoundingCharPts" compValue="9" char="n"/>
+			<bbox height="37" width="32" x="725" y="954"/>
+		</object>
+		<object id="3" VALUE="Fitzroy">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="f"/>
+			<bbox height="58" width="34" x="782" y="607"/>
+			<attribute name="BoundingCharPts" compValue="2" char="i"/>
+			<bbox height="42" width="14" x="822" y="621"/>
+			<attribute name="BoundingCharPts" compValue="3" char="t"/>
+			<bbox height="52" width="16" x="836" y="611"/>
+			<attribute name="BoundingCharPts" compValue="4" char="z"/>
+			<bbox height="30" width="34" x="853" y="631"/>
+			<attribute name="BoundingCharPts" compValue="5" char="r"/>
+			<bbox height="52" width="18" x="891" y="617"/>
+			<attribute name="BoundingCharPts" compValue="6" char="o"/>
+			<bbox height="40" width="34" x="913" y="619"/>
+			<attribute name="BoundingCharPts" compValue="7" char="y"/>
+			<bbox height="58" width="32" x="949" y="621"/>
+		</object>
+	</file>
+	<file name="tamilnadu-river_text.tif">
+		<object id="1" VALUE="KARNATAKA">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="k"/>
+			<bbox height="16" width="8" x="200" y="142"/>
+			<attribute name="BoundingCharPts" compValue="2" char="r"/>
+			<bbox height="13" width="4" x="209" y="141"/>
+			<attribute name="BoundingPts" compValue="3" char="nataka"/>
+			<bbox value="1" x="215" y="149"/>
+			<bbox value="2" x="216" y="150"/>
+			<bbox value="3" x="219" y="150"/>
+			<bbox value="4" x="219" y="150"/>
+			<bbox value="5" x="222" y="150"/>
+			<bbox value="6" x="222" y="150"/>
+			<bbox value="7" x="225" y="150"/>
+			<bbox value="8" x="225" y="153"/>
+			<bbox value="9" x="227" y="153"/>
+			<bbox value="10" x="227" y="153"/>
+			<bbox value="11" x="225" y="153"/>
+			<bbox value="12" x="225" y="153"/>
+			<bbox value="13" x="222" y="153"/>
+			<bbox value="14" x="222" y="153"/>
+			<bbox value="15" x="219" y="153"/>
+			<bbox value="16" x="219" y="153"/>
+			<bbox value="17" x="216" y="153"/>
+		</object>
+	</file>
+</files>

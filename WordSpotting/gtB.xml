@@ -1,0 +1,1535 @@
+<files>
+	<file name="scan0050_text.tif">
+		<object id="1" VALUE="দিল্লি ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="দি "/>
+			<bbox height="24" width="29" x="350" y="387"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ল্লি "/>
+			<bbox height="16" width="11" x="372" y="394"/>
+		</object>
+		<object id="2" VALUE="বঙ্গোপসাগর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="বঙ্গো"/>
+			<bbox height="24" width="63" x="849" y="771"/>
+			<attribute name="BoundingBox" compValue="2" char="পসা"/>
+			<bbox height="24" width="47" x="911" y="771"/>
+			<attribute name="BoundingBox" compValue="3" char="গর"/>
+			<bbox height="23" width="34" x="959" y="771"/>
+		</object>
+		<object id="3" VALUE="মায়ানমার ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="মায়া "/>
+			<bbox height="25" width="50" x="1054" y="691"/>
+			<attribute name="BoundingBox" compValue="2" char="নমার "/>
+			<bbox height="21" width="62" x="1102" y="694"/>
+		</object>
+		<object id="4" VALUE="ভুটান ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="37" width="62" x="888" y="423"/>
+		</object>
+		<object id="5" VALUE="নেপাল ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="নে"/>
+			<bbox height="22" width="35" x="604" y="393"/>
+			<attribute name="BoundingBox" compValue="2" char="পাল "/>
+			<bbox height="29" width="47" x="636" y="403"/>
+		</object>
+		<object id="6" VALUE="ভোপাল ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="ভো"/>
+			<bbox height="21" width="14" x="394" y="599"/>
+			<attribute name="BoundingBox" compValue="2" char="পাল "/>
+			<bbox height="19" width="34" x="409" y="598"/>
+		</object>
+		<object id="7" VALUE="কলকাতা ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="কল "/>
+			<bbox height="17" width="27" x="803" y="628"/>
+			<attribute name="BoundingBox" compValue="2" char="কাতা "/>
+			<bbox height="19" width="38" x="831" y="626"/>
+		</object>
+		<object id="8" VALUE="হায়দ্রাবাদ ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="হায় "/>
+			<bbox height="20" width="27" x="424" y="853"/>
+			<attribute name="BoundingCharPts" compValue="2" char="দ্রা "/>
+			<bbox height="15" width="12" x="453" y="854"/>
+			<attribute name="BoundingBox" compValue="3" char="বাদ "/>
+			<bbox height="17" width="35" x="464" y="852"/>
+		</object>
+		<object id="9" VALUE="বাংলাদেশ ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char=" বাং "/>
+			<bbox height="21" width="25" x="864" y="545"/>
+			<attribute name="BoundingCharPts" compValue="2" char="লা "/>
+			<bbox height="20" width="9" x="890" y="546"/>
+			<attribute name="BoundingBox" compValue="3" char="দেশ "/>
+			<bbox height="25" width="74" x="899" y="541"/>
+		</object>
+		<object id="10" VALUE="অমৃত্সব ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="অ "/>
+			<bbox height="15" width="14" x="244" y="272"/>
+			<attribute name="BoundingBox" compValue="2" char="মৃত্স "/>
+			<bbox height="21" width="39" x="259" y="272"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ব "/>
+			<bbox height="17" width="10" x="300" y="272"/>
+		</object>
+		<object id="11" VALUE="লুধিযানা">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="লু "/>
+			<bbox height="21" width="16" x="276" y="316"/>
+			<attribute name="BoundingBox" compValue="2" char="ধিযানা"/>
+			<bbox height="23" width="48" x="290" y="308"/>
+		</object>
+		<object id="12" VALUE="চীন ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="32" width="44" x="571" y="253"/>
+		</object>
+		<object id="13" VALUE="মিরাট ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="মিরা "/>
+			<bbox height="23" width="27" x="440" y="363"/>
+			<attribute name="BoundingBox" compValue="2" char="ট "/>
+			<bbox height="23" width="14" x="470" y="364"/>
+		</object>
+		<object id="14" VALUE="ফারিদাবাদ ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ফ "/>
+			<bbox height="16" width="15" x="421" y="415"/>
+			<attribute name="BoundingBox" compValue="2" char="রিদা "/>
+			<bbox height="24" width="33" x="437" y="408"/>
+			<attribute name="BoundingBox" compValue="3" char="বাদ "/>
+			<bbox height="18" width="26" x="471" y="414"/>
+		</object>
+		<object id="15" VALUE="জয়পুর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="জয়"/>
+			<bbox height="15" width="27" x="286" y="485"/>
+			<attribute name="BoundingBox" compValue="2" char="পুর "/>
+			<bbox height="20" width="25" x="315" y="483"/>
+		</object>
+		<object id="16" VALUE="আগ্রা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="20" width="39" x="448" y="447"/>
+		</object>
+		<object id="17" VALUE="লহ্মৌ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="লহ্মে"/>
+			<bbox height="17" width="38" x="505" y="461"/>
+			<attribute name="BoundingCharPts" compValue="2" char=" ৗ"/>
+			<bbox height="22" width="15" x="534" y="455"/>
+		</object>
+		<object id="18" VALUE="এলাহাবাদ ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="এ "/>
+			<bbox height="14" width="14" x="544" y="496"/>
+			<attribute name="BoundingBox" compValue="2" char="লাহাবাদ "/>
+			<bbox height="19" width="62" x="559" y="494"/>
+		</object>
+		<object id="19" VALUE="কানপুর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="কান "/>
+			<bbox height="17" width="30" x="472" y="523"/>
+			<attribute name="BoundingCharPts" compValue="2" char="পু "/>
+			<bbox height="23" width="16" x="504" y="522"/>
+			<attribute name="BoundingCharPts" compValue="3" char="র "/>
+			<bbox height="15" width="10" x="518" y="524"/>
+		</object>
+		<object id="20" VALUE="জব্বলপুর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="জ "/>
+			<bbox height="14" width="20" x="479" y="606"/>
+			<attribute name="BoundingBox" compValue="2" char="ব্ব"/>
+			<bbox height="16" width="19" x="496" y="606"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ল"/>
+			<bbox height="16" width="14" x="516" y="606"/>
+			<attribute name="BoundingCharPts" compValue="4" char="পু "/>
+			<bbox height="23" width="22" x="530" y="604"/>
+			<attribute name="BoundingCharPts" compValue="5" char="র "/>
+			<bbox height="13" width="10" x="546" y="607"/>
+		</object>
+		<object id="21" VALUE="পাকিস্তান ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="75" width="78" x="129" y="284"/>
+		</object>
+		<object id="22" VALUE=" আমেদাবাদ  ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="18" width="20" x="148" y="600"/>
+			<attribute name="BoundingBox" compValue="2" char="মেদা"/>
+			<bbox height="18" width="33" x="170" y="599"/>
+			<attribute name="BoundingCharPts" compValue="3" char="বা"/>
+			<bbox height="17" width="15" x="205" y="600"/>
+			<attribute name="BoundingCharPts" compValue="4" char="দ"/>
+			<bbox height="15" width="9" x="222" y="602"/>
+		</object>
+		<object id="23" VALUE="বাজকোট ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="22" width="69" x="109" y="671"/>
+		</object>
+		<object id="24" VALUE="সুবাট ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="সু"/>
+			<bbox height="21" width="15" x="225" y="687"/>
+			<attribute name="BoundingCharPts" compValue="2" char="বা"/>
+			<bbox height="15" width="9" x="240" y="688"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ট"/>
+			<bbox height="17" width="5" x="250" y="685"/>
+		</object>
+		<object id="25" VALUE="নাসিক ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="না"/>
+			<bbox height="19" width="16" x="279" y="757"/>
+			<attribute name="BoundingBox" compValue="2" char="সিক"/>
+			<bbox height="22" width="32" x="297" y="753"/>
+		</object>
+		<object id="26" VALUE="মুম্বাই ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="মু"/>
+			<bbox height="21" width="15" x="174" y="809"/>
+			<attribute name="BoundingBox" compValue="2" char="ম্বাই"/>
+			<bbox height="23" width="24" x="188" y="803"/>
+		</object>
+		<object id="27" VALUE="পুনে ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="পু"/>
+			<bbox height="22" width="25" x="251" y="848"/>
+			<attribute name="BoundingCharPts" compValue="2" char="নে"/>
+			<bbox height="14" width="9" x="274" y="849"/>
+		</object>
+		<object id="28" VALUE="নাগপুর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="না"/>
+			<bbox height="19" width="17" x="415" y="736"/>
+			<attribute name="BoundingCharPts" compValue="2" char="গ"/>
+			<bbox height="20" width="12" x="433" y="735"/>
+			<attribute name="BoundingCharPts" compValue="3" char="পু"/>
+			<bbox height="25" width="16" x="447" y="734"/>
+			<attribute name="BoundingCharPts" compValue="4" char="র"/>
+			<bbox height="16" width="10" x="461" y="737"/>
+		</object>
+		<object id="29" VALUE="হায়দ্রাবাদ ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="হায়"/>
+			<bbox height="19" width="27" x="424" y="853"/>
+			<attribute name="BoundingCharPts" compValue="2" char="দ্রা"/>
+			<bbox height="15" width="12" x="453" y="854"/>
+			<attribute name="BoundingBox" compValue="3" char="বাদ"/>
+			<bbox height="18" width="35" x="464" y="852"/>
+		</object>
+		<object id="30" VALUE="বিজযওযাড়া ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="বিজ"/>
+			<bbox height="23" width="32" x="432" y="895"/>
+			<attribute name="BoundingCharPts" compValue="2" char="য"/>
+			<bbox height="15" width="10" x="465" y="902"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ও"/>
+			<bbox height="14" width="14" x="476" y="902"/>
+			<attribute name="BoundingCharPts" compValue="4" char="যা"/>
+			<bbox height="17" width="17" x="491" y="900"/>
+			<attribute name="BoundingCharPts" compValue="5" char="ড়া"/>
+			<bbox height="17" width="17" x="509" y="900"/>
+		</object>
+		<object id="31" VALUE="বিশাখাপত্তনাম্ ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="বি"/>
+			<bbox height="23" width="16" x="666" y="851"/>
+			<attribute name="BoundingBox" compValue="2" char="শাখা"/>
+			<bbox height="19" width="35" x="683" y="854"/>
+			<attribute name="BoundingBox" compValue="3" char="পত্তনাম্"/>
+			<bbox height="17" width="52" x="719" y="855"/>
+		</object>
+		<object id="32" VALUE="আরবসাগর   ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="আরব"/>
+			<bbox height="23" width="64" x="76" y="983"/>
+			<attribute name="BoundingCharPts" compValue="2" char="সা"/>
+			<bbox height="21" width="26" x="155" y="983"/>
+			<attribute name="BoundingBox" compValue="3" char="গর"/>
+			<bbox height="21" width="37" x="181" y="983"/>
+		</object>
+		<object id="33" VALUE="বাঙ্গালোর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="বা"/>
+			<bbox height="18" width="15" x="303" y="1043"/>
+			<attribute name="BoundingBox" compValue="2" char="ঙ্গ"/>
+			<bbox height="18" width="18" x="320" y="1042"/>
+			<attribute name="BoundingBox" compValue="3" char="া"/>
+			<bbox height="17" width="17" x="339" y="1042"/>
+			<attribute name="BoundingCharPts" compValue="4" char="লো"/>
+			<bbox height="19" width="22" x="354" y="1042"/>
+			<attribute name="BoundingCharPts" compValue="5" char="র"/>
+			<bbox height="13" width="9" x="374" y="1044"/>
+		</object>
+		<object id="34" VALUE="ইন্দোব ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="ই"/>
+			<bbox height="23" width="23" x="376" y="659"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ন্দো"/>
+			<bbox height="14" width="14" x="397" y="664"/>
+			<attribute name="BoundingBox" compValue="3" char="ব"/>
+			<bbox height="19" width="20" x="407" y="661"/>
+		</object>
+		<object id="35" VALUE="বারানসী ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="বা"/>
+			<bbox height="18" width="16" x="597" y="547"/>
+			<attribute name="BoundingCharPts" compValue="2" char="রা"/>
+			<bbox height="19" width="21" x="616" y="547"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ন"/>
+			<bbox height="13" width="10" x="633" y="547"/>
+			<attribute name="BoundingCharPts" compValue="4" char="সী"/>
+			<bbox height="23" width="18" x="644" y="540"/>
+		</object>
+		<object id="36" VALUE="পাটনা ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="21" width="45" x="737" y="515"/>
+		</object>
+		<object id="37" VALUE="ধানবাদ ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ধা"/>
+			<bbox height="17" width="22" x="697" y="587"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ন"/>
+			<bbox height="14" width="10" x="713" y="590"/>
+			<attribute name="BoundingBox" compValue="3" char="বাদ"/>
+			<bbox height="18" width="27" x="726" y="587"/>
+		</object>
+		<object id="38" VALUE="জামসেদপুর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="জাম"/>
+			<bbox height="19" width="32" x="653" y="642"/>
+			<attribute name="BoundingBox" compValue="2" char="সেদ"/>
+			<bbox height="17" width="30" x="687" y="642"/>
+			<attribute name="BoundingBox" compValue="3" char="পুর"/>
+			<bbox height="23" width="24" x="719" y="641"/>
+		</object>
+		<object id="39" VALUE="আসানসোল  ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="আসানসো "/>
+			<bbox height="18" width="78" x="809" y="602"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ল"/>
+			<bbox height="15" width="12" x="887" y="603"/>
+		</object>
+		<object id="40" VALUE="চ্ন্নোই ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="চে"/>
+			<bbox height="16" width="16" x="532" y="1059"/>
+			<attribute name="BoundingBox" compValue="2" char="ন্নাই"/>
+			<bbox height="23" width="29" x="549" y="1053"/>
+		</object>
+		<object id="41" VALUE="কোয়েম্বাটুর্">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="কোয়েম্বাটু"/>
+			<bbox height="24" width="90" x="411" y="1123"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র্"/>
+			<bbox height="17" width="10" x="501" y="1129"/>
+		</object>
+		<object id="42" VALUE="মাদুরাই ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="25" width="58" x="416" y="1156"/>
+		</object>
+		<object id="43" VALUE="শ্রীলঙকা ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="87" x="511" y="1281"/>
+		</object>
+		<object id="44" VALUE="ভারত  ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="ভার"/>
+			<bbox height="23" width="49" x="297" y="1276"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ত"/>
+			<bbox height="19" width="20" x="344" y="1278"/>
+		</object>
+		<object id="45" VALUE="মাহাসাগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="মাহাসা"/>
+			<bbox height="26" width="66" x="393" y="1275"/>
+			<attribute name="BoundingBox" compValue="2" char="গর "/>
+			<bbox height="22" width="33" x="461" y="1274"/>
+		</object>
+	</file>
+	<file name="scan0058_text.tif">
+		<object id="1" VALUE="পাকিস্তান ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="92" width="108" x="98" y="93"/>
+		</object>
+		<object id="2" VALUE="দিল্লী ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="21" width="38" x="296" y="313"/>
+		</object>
+		<object id="3" VALUE="বঙ্গোপসাগর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="ব"/>
+			<bbox height="30" width="42" x="614" y="703"/>
+			<attribute name="BoundingBox" compValue="2" char="ঙ্গো"/>
+			<bbox height="30" width="47" x="656" y="703"/>
+			<attribute name="BoundingBox" compValue="3" char="পসাগর"/>
+			<bbox height="35" width="102" x="703" y="703"/>
+		</object>
+		<object id="4" VALUE="মায়ানমার ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="108" width="106" x="824" y="532"/>
+		</object>
+		<object id="5" VALUE="ভুটান">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="25" width="41" x="714" y="404"/>
+		</object>
+		<object id="6" VALUE="কলকাতা ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="16" width="67" x="626" y="613"/>
+		</object>
+	</file>
+	<file name="scan0059_text.tif">
+		<object id="1" VALUE="পাকিস্তান ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="93" width="117" x="141" y="233"/>
+		</object>
+		<object id="2" VALUE="দিল্লী ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="50" x="468" y="374"/>
+		</object>
+		<object id="3" VALUE="বঙ্গোপসাগর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="ব"/>
+			<bbox height="28" width="47" x="866" y="801"/>
+			<attribute name="BoundingBox" compValue="2" char="ঙ্গো"/>
+			<bbox height="32" width="50" x="913" y="799"/>
+			<attribute name="BoundingBox" compValue="3" char="পসাগর"/>
+			<bbox height="35" width="108" x="964" y="799"/>
+		</object>
+		<object id="4" VALUE="মায়ানমার ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="98" width="95" x="1071" y="636"/>
+		</object>
+		<object id="5" VALUE="ভুটান">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="41" width="68" x="921" y="449"/>
+		</object>
+		<object id="6" VALUE="নেপাল ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="নে "/>
+			<bbox height="36" width="40" x="629" y="392"/>
+			<attribute name="BoundingCharPts" compValue="2" char="পা "/>
+			<bbox height="36" width="38" x="706" y="425"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ল "/>
+			<bbox height="37" width="29" x="769" y="448"/>
+		</object>
+		<object id="7" VALUE="কলকাতা ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="25" width="96" x="742" y="668"/>
+		</object>
+		<object id="8" VALUE="বাংলাদেশ ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="25" width="99" x="901" y="577"/>
+		</object>
+		<object id="9" VALUE="ভারত  ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="49" width="138" x="888" y="95"/>
+		</object>
+		<object id="10" VALUE="বয়ান  শিল্প​">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="বয়ান "/>
+			<bbox height="30" width="71" x="882" y="165"/>
+			<attribute name="BoundingBox" compValue="2" char="শিল্প​"/>
+			<bbox height="46" width="65" x="963" y="156"/>
+		</object>
+		<object id="11" VALUE="চীন ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="চী"/>
+			<bbox height="41" width="33" x="769" y="345"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ন "/>
+			<bbox height="30" width="25" x="889" y="360"/>
+		</object>
+		<object id="12" VALUE="শ্রীনগর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="শ্রীন "/>
+			<bbox height="31" width="48" x="362" y="196"/>
+			<attribute name="BoundingBox" compValue="2" char="গর "/>
+			<bbox height="23" width="34" x="411" y="204"/>
+		</object>
+		<object id="13" VALUE="ধাবীযাল্">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="32" width="88" x="418" y="255"/>
+		</object>
+		<object id="14" VALUE="অমৃত্সব ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="95" x="387" y="288"/>
+		</object>
+		<object id="15" VALUE="মোদিনগর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="মোদিন "/>
+			<bbox height="28" width="73" x="471" y="324"/>
+			<attribute name="BoundingBox" compValue="2" char="গর "/>
+			<bbox height="22" width="33" x="545" y="330"/>
+		</object>
+		<object id="16" VALUE="গোযালিয়র্">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char=" ে"/>
+			<bbox height="20" width="10" x="386" y="536"/>
+			<attribute name="BoundingBox" compValue="2" char="গাযালিযব"/>
+			<bbox height="30" width="107" x="397" y="530"/>
+		</object>
+		<object id="17" VALUE="কানপুর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="কান "/>
+			<bbox height="23" width="46" x="559" y="549"/>
+			<attribute name="BoundingBox" compValue="2" char="পুর "/>
+			<bbox height="31" width="35" x="605" y="550"/>
+		</object>
+		<object id="18" VALUE="বারানসী ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="90" x="701" y="549"/>
+		</object>
+		<object id="19" VALUE="মুর্শিদাবাদ   ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="37" width="103" x="740" y="585"/>
+		</object>
+		<object id="20" VALUE=" আমেদাবাদ  ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="25" width="120" x="124" y="573"/>
+		</object>
+		<object id="21" VALUE="জামনগর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="জামন"/>
+			<bbox height="24" width="64" x="133" y="651"/>
+			<attribute name="BoundingBox" compValue="2" char="গর"/>
+			<bbox height="22" width="33" x="197" y="653"/>
+		</object>
+		<object id="22" VALUE="সুবাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="37" width="58" x="266" y="676"/>
+		</object>
+		<object id="23" VALUE=" ইন্দোর্ ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="31" width="76" x="377" y="630"/>
+		</object>
+		<object id="24" VALUE="নাগপুর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="না "/>
+			<bbox height="23" width="26" x="464" y="725"/>
+			<attribute name="BoundingCharPts" compValue="2" char="গ "/>
+			<bbox height="23" width="17" x="490" y="725"/>
+			<attribute name="BoundingBox" compValue="3" char="পুব "/>
+			<bbox height="31" width="36" x="508" y="726"/>
+		</object>
+		<object id="25" VALUE="শোলাপুর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="শোলা"/>
+			<bbox height="25" width="65" x="377" y="835"/>
+			<attribute name="BoundingBox" compValue="2" char="পুর"/>
+			<bbox height="30" width="35" x="443" y="837"/>
+		</object>
+		<object id="26" VALUE="মুম্বাই ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="60" x="253" y="810"/>
+		</object>
+		<object id="27" VALUE="আরব ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="31" width="88" x="77" y="851"/>
+		</object>
+		<object id="28" VALUE="সাগর   ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="34" width="85" x="75" y="906"/>
+		</object>
+		<object id="29" VALUE="চেন্নাই ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="31" width="64" x="536" y="976"/>
+		</object>
+		<object id="30" VALUE="বাঙ্গালোর ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="25" width="117" x="299" y="997"/>
+		</object>
+		<object id="31" VALUE="মহীশূব">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="39" width="77" x="316" y="1061"/>
+		</object>
+		<object id="32" VALUE="কাঞ্চীপুবম">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="কা"/>
+			<bbox height="22" width="30" x="405" y="1031"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ঞ্চী"/>
+			<bbox height="31" width="32" x="433" y="1025"/>
+			<attribute name="BoundingBox" compValue="3" char="পুবম"/>
+			<bbox height="31" width="52" x="466" y="1032"/>
+		</object>
+		<object id="33" VALUE="থাঞাভুব ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="থা"/>
+			<bbox height="23" width="25" x="404" y="1133"/>
+			<attribute name="BoundingBox" compValue="2" char="ঞাভুব "/>
+			<bbox height="32" width="67" x="430" y="1134"/>
+		</object>
+		<object id="34" VALUE="লাহ্মাদ্বীপ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="লাহ্মাদ্বী"/>
+			<bbox height="33" width="84" x="61" y="1128"/>
+			<attribute name="BoundingCharPts" compValue="2" char="প"/>
+			<bbox height="23" width="20" x="146" y="1136"/>
+		</object>
+		<object id="35" VALUE="কোয়েম্বাটুর">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="122" x="224" y="1168"/>
+		</object>
+		<object id="36" VALUE="কার্পাস">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="33" width="86" x="774" y="967"/>
+		</object>
+		<object id="37" VALUE="বযান ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="24" width="60" x="870" y="977"/>
+		</object>
+		<object id="38" VALUE="শিল্প">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="54" x="936" y="971"/>
+		</object>
+		<object id="39" VALUE="পাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="32" width="49" x="773" y="1013"/>
+		</object>
+		<object id="40" VALUE="শিল্প">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="37" width="53" x="829" y="1014"/>
+		</object>
+		<object id="41" VALUE="পশম">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="28" width="63" x="772" y="1066"/>
+		</object>
+		<object id="42" VALUE="বযন">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="25" width="58" x="845" y="1072"/>
+		</object>
+		<object id="43" VALUE="শিল্প">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="37" width="54" x="911" y="1064"/>
+		</object>
+		<object id="44" VALUE="রেশম">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="27" width="71" x="773" y="1116"/>
+		</object>
+		<object id="45" VALUE="শিল্প">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="38" width="55" x="851" y="1109"/>
+		</object>
+		<object id="46" VALUE="কৃত্রিম">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="41" width="75" x="765" y="1157"/>
+		</object>
+		<object id="47" VALUE="তন্তু">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="33" width="48" x="848" y="1169"/>
+		</object>
+		<object id="48" VALUE="শিল্প">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="54" x="903" y="1161"/>
+		</object>
+		<object id="49" VALUE="ভারত ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ভা"/>
+			<bbox height="32" width="40" x="316" y="1281"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র"/>
+			<bbox height="30" width="26" x="385" y="1285"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ত"/>
+			<bbox height="25" width="33" x="442" y="1287"/>
+		</object>
+		<object id="50" VALUE="মহাসাগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ম"/>
+			<bbox height="33" width="30" x="602" y="1292"/>
+			<attribute name="BoundingCharPts" compValue="2" char="হা"/>
+			<bbox height="37" width="36" x="671" y="1290"/>
+			<attribute name="BoundingCharPts" compValue="3" char="সা"/>
+			<bbox height="31" width="40" x="747" y="1292"/>
+			<attribute name="BoundingCharPts" compValue="4" char="গ"/>
+			<bbox height="36" width="24" x="819" y="1292"/>
+			<attribute name="BoundingCharPts" compValue="5" char="র"/>
+			<bbox height="31" width="24" x="887" y="1296"/>
+		</object>
+	</file>
+	<file name="scan0061_text.tif">
+		<object id="1" VALUE="পাকিস্তান ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="94" width="115" x="132" y="276"/>
+		</object>
+		<object id="2" VALUE="দিল্লী ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="49" x="477" y="445"/>
+		</object>
+		<object id="3" VALUE="বঙ্গোপসাগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ব"/>
+			<bbox height="28" width="45" x="935" y="897"/>
+			<attribute name="BoundingBox" compValue="2" char="ঙ্গো"/>
+			<bbox height="31" width="51" x="978" y="897"/>
+			<attribute name="BoundingBox" compValue="3" char="পসা"/>
+			<bbox height="30" width="60" x="1031" y="897"/>
+			<attribute name="BoundingBox" compValue="4" char="গর"/>
+			<bbox height="32" width="48" x="1091" y="897"/>
+		</object>
+		<object id="4" VALUE="মায়ানমার ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="98" width="92" x="1147" y="732"/>
+		</object>
+		<object id="5" VALUE="ভুটান">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="35" width="59" x="979" y="486"/>
+		</object>
+		<object id="6" VALUE="নেপাল ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="নে"/>
+			<bbox height="26" width="29" x="637" y="430"/>
+			<attribute name="BoundingBox" compValue="2" char="পাল"/>
+			<bbox height="36" width="46" x="664" y="441"/>
+		</object>
+		<object id="7" VALUE="ভূপাল ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ভূ"/>
+			<bbox height="25" width="21" x="479" y="653"/>
+			<attribute name="BoundingBox" compValue="2" char="পাল"/>
+			<bbox height="21" width="46" x="502" y="651"/>
+		</object>
+		<object id="8" VALUE="হায়দ্রাবাদ ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="23" width="102" x="463" y="957"/>
+		</object>
+		<object id="9" VALUE="কলকাতা ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="23" width="94" x="884" y="781"/>
+		</object>
+	</file>
+	<file name="scan0063_text.tif">
+		<object id="1" VALUE="পাকিস্তান ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="97" width="113" x="118" y="271"/>
+		</object>
+		<object id="2" VALUE="দিল্লী ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="46" x="453" y="429"/>
+		</object>
+		<object id="3" VALUE="বঙ্গোপসাগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ব "/>
+			<bbox height="29" width="45" x="940" y="895"/>
+			<attribute name="BoundingBox" compValue="2" char="ঙ্গো"/>
+			<bbox height="32" width="49" x="986" y="891"/>
+			<attribute name="BoundingBox" compValue="3" char="পসা"/>
+			<bbox height="31" width="63" x="1035" y="889"/>
+			<attribute name="BoundingBox" compValue="4" char="গর"/>
+			<bbox height="31" width="45" x="1099" y="889"/>
+		</object>
+		<object id="4" VALUE="মায়ানমার ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="101" width="89" x="1155" y="676"/>
+		</object>
+		<object id="5" VALUE="ভুটান">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="37" width="61" x="970" y="480"/>
+		</object>
+		<object id="6" VALUE="নেপাল ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="নে"/>
+			<bbox height="34" width="40" x="619" y="425"/>
+			<attribute name="BoundingBox" compValue="2" char="পাল"/>
+			<bbox height="47" width="60" x="657" y="438"/>
+		</object>
+		<object id="7" VALUE="ভূপাল ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ভূ"/>
+			<bbox height="24" width="18" x="546" y="739"/>
+			<attribute name="BoundingBox" compValue="2" char="পাল"/>
+			<bbox height="21" width="38" x="566" y="736"/>
+		</object>
+		<object id="8" VALUE="কলকাতা ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="21" width="70" x="953" y="707"/>
+		</object>
+		<object id="9" VALUE="হায়দ্রাবাদ ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="22" width="85" x="454" y="956"/>
+		</object>
+		<object id="10" VALUE="বাংলাদেশ ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="32" width="132" x="938" y="614"/>
+		</object>
+	</file>
+	<file name="scan0086.tif">
+		<object id="1" VALUE="আরব ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="47" width="92" x="209" y="809"/>
+		</object>
+	</file>
+	<file name="scan0087.tif">
+		<object id="1" VALUE="আরব">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="47" width="90" x="137" y="828"/>
+		</object>
+		<object id="2" VALUE= "শ্রীলঙ্কা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="43" width="109" x="846" y="1516"/>
+		</object>
+	</file>
+	<file name="scan00088.tif">
+		<object id="1" VALUE="ওড়িশা">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ও "/>
+			<bbox height="26" width="28" x="173" y="1593"/>
+			<attribute name="BoundingBox" compValue="2" char="rish"/>
+			<bbox height="50" width="72" x="202" y="1580"/>
+			<attribute name="BoundingCharPts" compValue="3" char="a"/>
+			<bbox height="36" width="10" x="275" y="1589"/>
+		</object>
+		<object id="2" VALUE="হুগলী">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="হু"/>
+			<bbox height="28" width="17" x="714" y="1242"/>
+			<attribute name="BoundingBox" compValue="2" char="গলী"/>
+			<bbox height="31" width="43" x="732" y="1234"/>
+		</object>
+	</file>
+	<file name="scan0088.tif">
+		<object id="1" VALUE="গুজরাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="89" width="70" x="161" y="1236"/>
+		</object>
+	</file>
+	<file name="scan0089.tif">
+		<object id="1" VALUE="শ্রীলঙ্কা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="46" width="87" x="660" y="1108"/>
+		</object>
+		<object id="2" VALUE="আরব">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="80" x="74" y="548"/>
+		</object>
+		<object id="3" VALUE="কোচিন">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="32" width="63" x="374" y="961"/>
+		</object>
+		<object id="4" VALUE="গুজরাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="63" x="74" y="407"/>
+		</object>
+	</file>
+	<file name="scan0091.tif">
+		<object id="1" VALUE="গুজরাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="39" width="64" x="115" y="399"/>
+		</object>
+		<object id="2" VALUE="আরব">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="72" x="121" y="541"/>
+		</object>
+		<object id="3" VALUE="কোচিন">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="33" width="63" x="437" y="946"/>
+		</object>
+		<object id="4" VALUE="শ্রীলঙ্কা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="42" width="88" x="722" y="1080"/>
+		</object>
+		<object id="5" VALUE="চেন্নাই">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="42" width="67" x="746" y="707"/>
+		</object>
+		<object id="6" VALUE="উড়িষ্যা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="57" width="64" x="899" y="423"/>
+		</object>
+	</file>
+	<file name="scan0092.tif">
+		<object id="1" VALUE="আরব">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="38" width="74" x="64" y="406"/>
+		</object>
+		<object id="2" VALUE="গুজরাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="38" width="65" x="62" y="264"/>
+		</object>
+		<object id="3" VALUE="চেন্নাই">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="41" width="66" x="689" y="584"/>
+		</object>
+		<object id="4" VALUE="উড়িষ্যা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="62" width="65" x="844" y="293"/>
+		</object>
+		<object id="5" VALUE="কোচিন">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="32" width="62" x="374" y="818"/>
+		</object>
+	</file>
+	<file name="scan0094.tif">
+		<object id="1" VALUE="এলাহাবাদ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="এ"/>
+			<bbox height="24" width="21" x="547" y="676"/>
+			<attribute name="BoundingBox" compValue="2" char="লাহাবাদ"/>
+			<bbox height="29" width="100" x="569" y="674"/>
+		</object>
+		<object id="2" VALUE="চিন">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="54" width="57" x="926" y="138"/>
+		</object>
+	</file>
+	<file name="scan0095.tif">
+		<object id="1" VALUE="চিন">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="59" width="59" x="964" y="128"/>
+		</object>
+	</file>
+	<file name="scan0096.tif">
+		<object id="1" VALUE="আরব">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="36" width="32" x="156" y="1098"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র"/>
+			<bbox height="32" width="22" x="200" y="1102"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ব"/>
+			<bbox height="32" width="22" x="234" y="1103"/>
+		</object>
+		<object id="2" VALUE="শ্রীলঙ্কা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="78" x="664" y="1506"/>
+		</object>
+		<object id="3" VALUE="লাক্ষাদ্বীপ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="লাক্ষা"/>
+			<bbox height="25" width="46" x="297" y="1369"/>
+			<attribute name="BoundingCharPts" compValue="2" char="দ্বী"/>
+			<bbox height="32" width="20" x="355" y="1362"/>
+			<attribute name="BoundingCharPts" compValue="3" char="প"/>
+			<bbox height="24" width="15" x="376" y="1370"/>
+		</object>
+	</file>
+	<file name="scan0097.tif">
+		<object id="1" VALUE="চিন">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="চি"/>
+			<bbox height="46" width="45" x="850" y="170"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ন"/>
+			<bbox height="42" width="33" x="1165" y="373"/>
+		</object>
+		<object id="2" VALUE="আরব">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="46" width="45" x="192" y="906"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র"/>
+			<bbox height="40" width="25" x="253" y="910"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ব"/>
+			<bbox height="40" width="25" x="297" y="912"/>
+		</object>
+		<object id="3" VALUE="লাক্ষাদ্বীপ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="লাক্ষা"/>
+			<bbox height="57" width="30" x="304" y="1213"/>
+			<attribute name="BoundingCharPts" compValue="2" char="দ্বীপ"/>
+			<bbox height="25" width="40" x="303" y="1282"/>
+			<attribute name="BoundingCharPts" compValue="3" char="p"/>
+			<bbox height="18" width="30" x="302" y="1308"/>
+		</object>
+	</file>
+	<file name="scan0098.tif">
+		<object id="1" VALUE="আরব">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="32" width="39" x="80" y="613"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র"/>
+			<bbox height="27" width="22" x="132" y="617"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ব"/>
+			<bbox height="28" width="21" x="167" y="616"/>
+		</object>
+		<object id="2" VALUE="চিন">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="চি"/>
+			<bbox height="40" width="41" x="520" y="123"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ন"/>
+			<bbox height="37" width="28" x="580" y="162"/>
+		</object>
+		<object id="3" VALUE="ওডিশা">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ও"/>
+			<bbox height="21" width="21" x="522" y="504"/>
+			<attribute name="BoundingBox" compValue="2" char="ডিশা"/>
+			<bbox height="33" width="54" x="544" y="495"/>
+		</object>
+		<object id="4" VALUE="গুজরাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="65" x="146" y="452"/>
+		</object>
+	</file>
+	<file name="scan00099.tif">
+		<object id="1" VALUE="হুগলি">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="হু"/>
+			<bbox height="22" width="14" x="541" y="1000"/>
+			<attribute name="BoundingBox" compValue="2" char="গলি"/>
+			<bbox height="22" width="34" x="556" y="994"/>
+		</object>
+		<object id="2" VALUE="ওড়িশা">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ও"/>
+			<bbox height="21" width="23" x="122" y="1277"/>
+			<attribute name="BoundingBox" compValue="2" char="ড়িশা"/>
+			<bbox height="38" width="63" x="147" y="1268"/>
+		</object>
+	</file>
+	<file name="scan0099.tif">
+		<object id="1" VALUE="আরব">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="41" width="51" x="145" y="997"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র"/>
+			<bbox height="37" width="28" x="206" y="1001"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ব"/>
+			<bbox height="37" width="29" x="244" y="1002"/>
+		</object>
+		<object id="2" VALUE="চিন">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="চি"/>
+			<bbox height="47" width="47" x="857" y="261"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ন"/>
+			<bbox height="41" width="32" x="926" y="308"/>
+		</object>
+		<object id="3" VALUE="চেন্নাই">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="40" width="59" x="688" y="1190"/>
+		</object>
+	</file>
+	<file name="scan0100.tif">
+		<object id="1" VALUE="বজবজ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="33" width="96" x="224" y="1413"/>
+		</object>
+		<object id="2" VALUE="বাটনগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="বাটন"/>
+			<bbox height="38" width="77" x="330" y="1329"/>
+			<attribute name="BoundingBox" compValue="2" char="গর "/>
+			<bbox height="31" width="41" x="406" y="1339"/>
+		</object>
+		<object id="3" VALUE="বালিগঞ্জ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="বালি"/>
+			<bbox height="38" width="63" x="655" y="1353"/>
+			<attribute name="BoundingCharPts" compValue="2" char="গ"/>
+			<bbox height="28" width="21" x="719" y="1364"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ঞ্জ"/>
+			<bbox height="28" width="25" x="742" y="1367"/>
+		</object>
+		<object id="4" VALUE="পার্কসাকাস">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="44" width="149" x="658" y="1308"/>
+
+		</object>
+		<object id="5" VALUE="শিয়ালদহ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="শিয়ালদ"/>
+			<bbox height="39" width="106" x="589" y="1225"/>
+			<attribute name="BoundingCharPts" compValue="2" char="হ"/>
+			<bbox height="32" width="21" x="698" y="1241"/>
+		</object>
+		<object id="6" VALUE="হাওড়া">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="হা"/>
+			<bbox height="30" width="29" x="493" y="1183"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ও"/>
+			<bbox height="21" width="21" x="522" y="1186"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ড়া"/>
+			<bbox height="26" width="31" x="545" y="1186"/>
+		</object>
+		<object id="7" VALUE="লিলুয়া">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="50" width="91" x="468" y="1064"/>
+		</object>
+		<object id="8" VALUE="বেলুড়">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="37" width="83" x="488" y="1010"/>
+		</object>
+		<object id="9" VALUE="দমদম">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="81" x="734" y="1072"/>
+		</object>
+		<object id="10" VALUE="বেলঘরিয়া">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="42" width="130" x="728" y="972"/>
+
+		</object>
+		<object id="11" VALUE="আগরপাড়া">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="30" width="39" x="716" y="913"/>
+			<attribute name="BoundingBox" compValue="2" char="গর"/>
+			<bbox height="29" width="45" x="756" y="914"/>
+			<attribute name="BoundingBox" compValue="3" char="পাড়া"/>
+			<bbox height="33" width="62" x="803" y="916"/>
+		</object>
+		<object id="12" VALUE="উত্তরপাড়া">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="উত্তর"/>
+			<bbox height="43" width="72" x="432" y="919"/>
+			<attribute name="BoundingBox" compValue="2" char="পাড়া"/>
+			<bbox height="35" width="67" x="505" y="931"/>
+		</object>
+		<object id="13" VALUE="কোননগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="কোনন"/>
+			<bbox height="30" width="88" x="464" y="850"/>
+			<attribute name="BoundingBox" compValue="2" char="গর"/>
+			<bbox height="30" width="40" x="554" y="852"/>
+		</object>
+		<object id="14" VALUE="টিটানগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="টিটানগর"/>
+			<bbox height="40" width="75" x="694" y="723"/>
+			<attribute name="BoundingBox" compValue="2" char="গর"/>
+			<bbox height="28" width="41" x="770" y="738"/>
+		</object>
+		<object id="15" VALUE="বারাকপুর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="বারাক "/>
+			<bbox height="31" width="84" x="688" y="678"/>
+			<attribute name="BoundingBox" compValue="2" char="পুর"/>
+			<bbox height="37" width="45" x="773" y="683"/>
+		</object>
+		<object id="16" VALUE="শ্রীরামপুর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="শ্রীরাম"/>
+			<bbox height="75" width="73" x="486" y="648"/>
+			<attribute name="BoundingBox" compValue="2" char="পুর"/>
+			<bbox height="42" width="44" x="548" y="711"/>
+		</object>
+		<object id="17" VALUE="shamnagar">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="shamn"/>
+			<bbox height="27" width="84" x="726" y="551"/>
+			<attribute name="BoundingBox" compValue="2" char="gar"/>
+			<bbox height="23" width="39" x="811" y="556"/>
+		</object>
+		<object id="19" VALUE="জগদ্দল">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="জ"/>
+			<bbox height="32" width="29" x="753" y="467"/>
+			<attribute name="BoundingBox" compValue="2" char="গদ্দল"/>
+			<bbox height="33" width="69" x="784" y="470"/>
+		</object>
+		<object id="20" VALUE="কাঁচরাপাড়া">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="কাঁচরা"/>
+			<bbox height="39" width="84" x="735" y="223"/>
+			<attribute name="BoundingBox" compValue="2" char="পাড়া"/>
+			<bbox height="33" width="57" x="822" y="234"/>
+		</object>
+		<object id="21" VALUE="নৈহাটি">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="91" width="68" x="800" y="352"/>
+		</object>
+		<object id="22" VALUE="হুগলি">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="হু"/>
+			<bbox height="37" width="24" x="597" y="335"/>
+			<attribute name="BoundingBox" compValue="2" char="গলি"/>
+			<bbox height="38" width="54" x="621" y="326"/>
+		</object>
+		<object id="23" VALUE="bandal">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="baaa"/>
+			<bbox height="31" width="55" x="580" y="275"/>
+			<attribute name="BoundingBox" compValue="2" char="ndal"/>
+			<bbox height="31" width="51" x="637" y="277"/>
+		</object>
+		<object id="24" VALUE="ত্রিবেণী">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="ত্রিবে"/>
+			<bbox height="41" width="67" x="697" y="68"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ণী"/>
+			<bbox height="40" width="32" x="764" y="71"/>
+		</object>
+		<object id="25" VALUE="পাটশিল্পো">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="35" width="89" x="119" y="392"/>
+		</object>
+		<object id="26" VALUE="কেন্দ্রিভবণ">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="46" width="151" x="325" y="153"/>
+		</object>
+		<object id="27" VALUE="শিল্পঞ্চল">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="শিল্প"/>
+			<bbox height="61" width="77" x="303" y="68"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ঞ্চ"/>
+			<bbox height="43" width="29" x="383" y="91"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ল"/>
+			<bbox height="43" width="30" x="413" y="92"/>
+		</object>
+		<object id="28" VALUE="কিলোমিটার">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="38" width="170" x="210" y="269"/>
+		</object>
+		<object id="29" VALUE="হুগলি">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="হু"/>
+			<bbox height="56" width="29" x="192" y="81"/>
+			<attribute name="BoundingBox" compValue="2" char="গলি"/>
+			<bbox height="60" width="66" x="219" y="65"/>
+		</object>
+	</file>
+	<file name="scan0101.tif">
+		<object id="1" VALUE="উড়িষ্যা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="84" width="108" x="999" y="968"/>
+		</object>
+	</file>
+	<file name="scan0102.tif">
+		<object id="1" VALUE="উড়িষ্যা">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="উ"/>
+			<bbox height="41" width="48" x="726" y="1196"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ড়ি"/>
+			<bbox height="51" width="52" x="792" y="1151"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ষ্যা"/>
+			<bbox height="45" width="61" x="863" y="1097"/>
+		</object>
+		<object id="2" VALUE="হুগলী">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="66" width="72" x="1310" y="794"/>
+		</object>
+	</file>
+	<file name="scan0103.tif">
+		<object id="1" VALUE="হুগলি">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="হু"/>
+			<bbox height="28" width="23" x="1272" y="1378"/>
+			<attribute name="BoundingBox" compValue="2" char="গলি"/>
+			<bbox height="41" width="60" x="1295" y="1365"/>
+		</object>
+		<object id="2" VALUE="উডিষ্যা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="53" width="103" x="1032" y="1114"/>
+		</object>
+	</file>
+	<file name="scan0104.tif">
+		<object id="1" VALUE="উডিষ্যা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="88" width="111" x="894" y="661"/>
+		</object>
+	</file>
+	<file name="scan0105.tif">
+		<object id="1" VALUE="উড়িষ্যা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="54" width="105" x="1078" y="1151"/>
+		</object>
+	</file>
+	<file name="scan0106.tif">
+		<object id="1" VALUE="বোকারো">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="106" x="813" y="321"/>
+		</object>
+	</file>
+	<file name="scan0107.tif">
+		<object id="1" VALUE="আরব">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="40" width="48" x="113" y="1039"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র"/>
+			<bbox height="34" width="26" x="170" y="1044"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ব"/>
+			<bbox height="34" width="26" x="205" y="1045"/>
+		</object>
+		<object id="2" VALUE="চিন">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="চি"/>
+			<bbox height="45" width="41" x="834" y="299"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ন"/>
+			<bbox height="40" width="30" x="897" y="341"/>
+		</object>
+		<object id="4" VALUE="চেন্নাই">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="36" width="69" x="706" y="1113"/>
+		</object>
+		<object id="5" VALUE="গুজরাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="37" width="79" x="212" y="799"/>
+		</object>
+		<object id="6" VALUE="ওডিশা">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ও"/>
+			<bbox height="19" width="19" x="825" y="886"/>
+			<attribute name="BoundingBox" compValue="2" char="ডিশা"/>
+			<bbox height="33" width="55" x="846" y="876"/>
+		</object>
+	</file>
+	<file name="scan004040.tif">
+		<object id="1" VALUE="শ্রীলঙ্কা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="29" width="78" x="476" y="1227"/>
+		</object>
+		<object id="2" VALUE="আরব">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="22" width="30" x="61" y="781"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র"/>
+			<bbox height="19" width="16" x="119" y="781"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ব"/>
+			<bbox height="19" width="17" x="162" y="779"/>
+		</object>
+		<object id="3" VALUE="চেন্নাই">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="26" width="56" x="496" y="998"/>
+		</object>
+		<object id="4" VALUE="গুজরাট">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="27" width="65" x="106" y="626"/>
+		</object>
+		<object id="5" VALUE="ওড়িশা">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ও"/>
+			<bbox height="15" width="16" x="638" y="673"/>
+			<attribute name="BoundingBox" compValue="2" char="ড়িশা"/>
+			<bbox height="28" width="43" x="654" y="666"/>
+		</object>
+	</file>
+	<file name="scan004141.tif">
+		<object id="1" VALUE="আফগানিস্তান">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="আফ"/>
+			<bbox height="55" width="79" x="105" y="201"/>
+			<attribute name="BoundingBox" compValue="2" char="গানিস্তান"/>
+			<bbox height="91" width="133" x="178" y="122"/>
+		</object>
+		<object id="2" VALUE="পাকিস্তান">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="99" width="139" x="177" y="298"/>
+		</object>
+		<object id="3" VALUE="চিন">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="56" width="66" x="675" y="255"/>
+		</object>
+		<object id="4" VALUE="নেপাল">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="নে"/>
+			<bbox height="39" width="48" x="635" y="351"/>
+			<attribute name="BoundingBox" compValue="2" char="পাল"/>
+			<bbox height="51" width="72" x="680" y="365"/>
+		</object>
+		<object id="5" VALUE="ভুটান">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="53" width="100" x="823" y="313"/>
+		</object>
+		<object id="6" VALUE="ভারত">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="42" width="127" x="487" y="512"/>
+		</object>
+		<object id="7" VALUE="বাংলাদেশ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="বাং"/>
+			<bbox height="37" width="60" x="815" y="630"/>
+			<attribute name="BoundingBox" compValue="2" char="লাদেশ"/>
+			<bbox height="36" width="121" x="870" y="630"/>
+		</object>
+		<object id="8" VALUE="মায়ানমার">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="102" width="152" x="1008" y="492"/>
+		</object>
+		<object id="9" VALUE="শ্রীলঙ্কা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="46" width="138" x="613" y="997"/>
+
+		</object>
+		<object id="10" VALUE="আরব">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="আ"/>
+			<bbox height="35" width="51" x="144" y="668"/>
+			<attribute name="BoundingCharPts" compValue="2" char="র"/>
+			<bbox height="31" width="29" x="210" y="671"/>
+			<attribute name="BoundingCharPts" compValue="3" char="ব"/>
+			<bbox height="31" width="27" x="256" y="672"/>
+		</object>
+		<object id="11" VALUE="সাগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="সা"/>
+			<bbox height="35" width="45" x="159" y="744"/>
+			<attribute name="BoundingCharPts" compValue="2" char="গ "/>
+			<bbox height="34" width="27" x="224" y="744"/>
+			<attribute name="BoundingCharPts" compValue="3" char="র "/>
+			<bbox height="32" width="29" x="267" y="747"/>
+		</object>
+		<object id="12" VALUE="মহাসাগর ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingBox" compValue="1" char="মহাসা"/>
+			<bbox height="39" width="99" x="249" y="981"/>
+			<attribute name="BoundingBox" compValue="2" char="গর "/>
+			<bbox height="34" width="48" x="347" y="981"/>
+		</object>
+		<object id="13" VALUE="বঙ্গোপসাগর">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="ব"/>
+			<bbox height="35" width="33" x="701" y="715"/>
+			<attribute name="BoundingCharPts" compValue="2" char="ঙ্গো"/>
+			<bbox height="35" width="82" x="747" y="715"/>
+			<attribute name="BoundingCharPts" compValue="3" char="প"/>
+			<bbox height="32" width="33" x="849" y="717"/>
+			<attribute name="BoundingCharPts" compValue="4" char="সা "/>
+			<bbox height="36" width="44" x="898" y="717"/>
+			<attribute name="BoundingCharPts" compValue="5" char="গ"/>
+			<bbox height="38" width="29" x="962" y="715"/>
+			<attribute name="BoundingCharPts" compValue="6" char="র"/>
+			<bbox height="29" width="27" x="1004" y="719"/>
+		</object>
+		<object id="14" VALUE="প্রতিবেশী">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="51" width="178" x="866" y="161"/>
+		</object>
+		<object id="15" VALUE="rastro">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="56" width="83" x="1065" y="163"/>
+		</object>
+		<object id="16" VALUE="কিলোমিটার">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="135" x="945" y="267"/>
+		</object>
+	</file>
+	<file name="scan005050.tif">
+		<object id="1" VALUE="শ্রীলঙ্কা">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="30" width="84" x="511" y="1281"/>
+		</object>
+		<object id="2" VALUE="আরব">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="24" width="64" x="77" y="983"/>
+		</object>
+		<object id="3" VALUE="চিন">
+			<attribute name="Connected" value1="F" value2="S"/>
+			<attribute name="BoundingBox"/>
+			<bbox height="32" width="45" x="570" y="253"/>
+		</object>
+		<object id="4" VALUE="এলাহাবাদ">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="এ"/>
+			<bbox height="14" width="14" x="544" y="496"/>
+			<attribute name="BoundingBox" compValue="2" char="লাহাবাদ"/>
+			<bbox height="20" width="63" x="559" y="494"/>
+		</object>
+		<object id="5" VALUE="চেন্নাই">
+			<attribute name="Connected" value1="P" value2="N"/>
+			<attribute name="BoundingCharPts" compValue="1" char="চে"/>
+			<bbox height="17" width="17" x="532" y="1059"/>
+			<attribute name="BoundingBox" compValue="2" char="ন্নাই"/>
+			<bbox height="24" width="30" x="548" y="1053"/>
+		</object>
+	</file>
+</files>
